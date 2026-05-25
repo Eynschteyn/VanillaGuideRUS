@@ -10,6 +10,7 @@ VanillaGuide
 * Интеграция: [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
 * Интеграция: [pfQuest by Shagu](https://github.com/Eynschteyn/pfQuest)
 * Интеграция: [Shagukill by Shagu](https://github.com/Eynschteyn/ShaguKill)
+* Интеграция: [ShaguTweaks by Shagu](https://github.com/Eynschteyn/ShaguTweaks)
 
 Установка - для работы аддона необходим шрифт с поддержкой кирилицы в противном случае кирилица не будет отображаться в аддоне.
 ============
@@ -18,8 +19,7 @@ World of Warcraft/
 └── Errors/
 └── Fonts/
 └── ...........
-  
-============    
+ ============    
 > **ПРИМЕЧАНИЕ:**
 >
 > - Этот аддон разработан для WoW 1.12.1 (toc 11200), также известного как Vanilla WoW 
