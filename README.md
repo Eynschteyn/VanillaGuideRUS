@@ -14,10 +14,10 @@ VanillaGuide
 
 Желательные Аддоны 
 ============
-* Интеграция: [pfQuest by Shagu](https://github.com/Eynschteyn/pfQuest)
-* Интеграция: [Shagukill by Shagu](https://github.com/Eynschteyn/ShaguKill)
-* Интеграция: [ShaguTweaks by Shagu](https://github.com/Eynschteyn/ShaguTweaks)
-* Интеграция: [Fonts - эту папку необходимо закинуть в корень игры WoW](https://github.com/Eynschteyn/Fonts)
+* Аддон для квестов: [pfQuest by Shagu](https://github.com/Eynschteyn/pfQuest)
+* Аддон для гринда: [Shagukill by Shagu](https://github.com/Eynschteyn/ShaguKill)
+* Аддон для интерфейса: [ShaguTweaks by Shagu](https://github.com/Eynschteyn/ShaguTweaks)
+* Папка со шрифтами кирилицы: [Fonts - эту папку необходимо закинуть в корень игры WoW](https://github.com/Eynschteyn/Fonts)
 
 Для работы аддона необходим шрифт с поддержкой кирилицы в противном случае кирилица не будет отображаться в аддоне.
 ============
