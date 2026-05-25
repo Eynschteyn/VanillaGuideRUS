@@ -1,5 +1,7 @@
 VanillaGuide
 ============
+Начинаю работу по переводу и актуализации гайда по прокачке от 1 до 60 уровня для "Ванильной" версии игры WOW 1.12.1
+============
 VanillaGuide aim to cover the hole for an in-game guide for Vanilla WoW 1.12.1. The AddOn features:
 
 * Step-by-Step Zone Guides (from Joana and Brian Kopps work)
