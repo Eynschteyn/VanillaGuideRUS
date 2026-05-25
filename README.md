@@ -18,7 +18,7 @@ VanillaGuide
 =======
 Спасибо, Джоана/Манкоу, вы испортили мне жизнь с WoW, но я все равно вас люблю.
 
-and here're the links to the REAL guide:
+А вот ссылки на НАСТОЯЩЕЕ руководство:
 
     http://www.joanasworld.com/meet_joana_mancow.html
     http://www.joanasworld.com/azeroth.htm
