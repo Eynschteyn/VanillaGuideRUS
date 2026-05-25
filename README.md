@@ -6,8 +6,8 @@ VanillaGuide
 
 * Пошаговые руководства по зонам (на основе работы Джоаны и Брайана Коппса)
 * Подсказки и советы по различным квестам
-* Интеграция MetaMapBWP [MetaMapBWP](https://github.com/laytya/Metamap-vanilla)
-* Интеграция TomTom с Vanilla WoW: [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
+* Интеграция: [MetaMapBWP](https://github.com/laytya/Metamap-vanilla)
+* Интеграция: [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
 
 > **ПРИМЕЧАНИЕ:**
 >
