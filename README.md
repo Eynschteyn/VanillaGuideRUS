@@ -9,14 +9,14 @@ VanillaGuide
 * Интеграция MetaMapBWP [MetaMapBWP](https://github.com/laytya/Metamap-vanilla)
 * Интеграция TomTom с Vanilla WoW: [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
 
-> **NOTE:**
+> **ПРИМЕЧАНИЕ:**
 >
-> - This Addon is developed for WoW 1.12.1 (toc 11200), also known as Vanilla WoW 
+> - Этот аддон разработан для WoW 1.12.1 (toc 11200), также известного как Vanilla WoW 
 >
 
-Credits
+Благодарности
 =======
-Well, thank you Joana/Mancow, you ruined my life with WoW, but I love you anyway.
+Спасибо, Джоана/Манкоу, вы испортили мне жизнь с WoW, но я все равно вас люблю.
 
 and here're the links to the REAL guide:
 
