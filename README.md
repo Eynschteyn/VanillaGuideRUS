@@ -11,7 +11,7 @@ VanillaGuide
 * Интеграция: [pfQuest by Shagu](https://github.com/Eynschteyn/pfQuest)
 * Интеграция: [Shagukill by Shagu](https://github.com/Eynschteyn/ShaguKill)
 * Интеграция: [ShaguTweaks by Shagu](https://github.com/Eynschteyn/ShaguTweaks)
-* Интеграция: [Fonts](https://github.com/Eynschteyn/Fonts)
+* Интеграция: [Fonts - эту папку необходимо закинуть в корень игры WoW](https://github.com/Eynschteyn/Fonts)
 
 Установка - для работы аддона необходим шрифт с поддержкой кирилицы в противном случае кирилица не будет отображаться в аддоне.
 ============
