@@ -649,7 +649,7 @@ Table_003_Alliance_50to60 = {
 		title = "59-60 Winterspring",
 		--n = "59-60 Winterspring",
 		--pID = 515, nID = 516,
-		--itemCount = 31,
+		--itemCount = 35,
 		items = {
 			[1] = { str = "1. 59-60 Winterspring" },
 			[2] = { str = "2. On your left after entering turn in #TURNIN“Are We There, Yeti? pt.3”#" },
