@@ -2,7 +2,7 @@ VanillaGuide
 ============
 Начинаю переводить на русский язык и делать актуализацию гайда по прокачке с 1 по 60 уровень для "Ванильной" версии игры WOW 1.12.1 EnGB
 ============
-![Скрин](https://github.com/Eynschteyn/VanillaGuide/blob/main/Images/VanillaGuide%20screen.png)
+![Скрин](https://github.com/Eynschteyn/VanillaGuide/blob/main/Images/Info.png)
 
 
 В аддоне представлены:
