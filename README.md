@@ -4,6 +4,7 @@ VanillaGuide
 ============
 ![Скрин](https://github.com/Eynschteyn/VanillaGuide/blob/main/Images/Info.png)
 
+![Скрин](https://github.com/Eynschteyn/VanillaGuide/blob/main/Images/Guide.png)
 
 В аддоне представлены:
 
