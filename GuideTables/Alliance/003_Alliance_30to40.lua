@@ -208,8 +208,8 @@ Table_003_Alliance_30to40 = {
 			[35] = { str = "35. Сейчас до 35 уровня должно остаться около 2х делений. Можно гриндить кентавров в точке 37,80 до 35 уровня", x = 37, y = 80, zone = "Desolace" },
 			[36] = { str = "36. Двигайтесь в Feralas и откройте полетчика, это сократит время в двльнейшем." },
 			[37] = { str = "37. В Feralas'е идите на корабль в точке 43,42 плывите на остров для открытия полетчика.", x = 43, y = 42, zone = "Desolace" },
-			[38] = { str = "38. Летите в Rachet. Сядьте на корабль и плывите в Booty Bay сдайте задание  #TURNINGoblin Sponsorship pt.2#  возьмите следующее  #ACCEPTGoblin Sponsorship pt.3#.  Затем сдайте задание на пристане  #TURNINWharfmaster Dizzywig#  и возьмите  #ACCEPTParts for Kravel#", x = 62, y = 36, zone = "Desolace" },
-			[39] = { str = "39. ." },
+			[38] = { str = "38. Летите в Rachet. Если у вас в журнале нет задания  #TURNINGoblin Sponsorship pt.1#  возьмите его у гоблина в Rachet'е. следующее  #ACCEPTGoblin Sponsorship pt.2#.  Затем сдайте задание на пристане  #TURNINWharfmaster Dizzywig#  и возьмите  #ACCEPTParts for Kravel#", x = 62, y = 36, zone = "Desolace" },
+			[39] = { str = "39. Идите на корабль и плывите в Booty Bay." },
 		}
 	},
 
