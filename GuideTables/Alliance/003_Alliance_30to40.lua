@@ -208,7 +208,7 @@ Table_003_Alliance_30to40 = {
 			[35] = { str = "35. Сейчас до 35 уровня должно остаться около 2х делений. Можно гриндить кентавров в точке 37,80 до 35 уровня", x = 37, y = 80, zone = "Desolace" },
 			[36] = { str = "36. Двигайтесь в Feralas и откройте полетчика, это сократит время в двльнейшем." },
 			[37] = { str = "37. В Feralas'е идите на корабль в точке 43,42 плывите на остров для открытия полетчика.", x = 43, y = 42, zone = "Desolace" },
-			[38] = { str = "38. Летите в Rachet. Если у вас в журнале нет задания  #TURNINGoblin Sponsorship pt.1#  возьмите его у гоблина в Rachet'е. следующее  #ACCEPTGoblin Sponsorship pt.2#.  Затем сдайте задание на пристане  #TURNINWharfmaster Dizzywig#  и возьмите  #ACCEPTParts for Kravel#", x = 62, y = 36, zone = "Desolace" },
+			[38] = { str = "38. Летите в Rachet. Если у вас в журнале нет задания  #TURNINGoblin Sponsorship pt.1#  возьмите его у гоблина в Rachet'е.", x = 62, y = 36, zone = "Desolace" },
 			[39] = { str = "39. Идите на корабль и плывите в Booty Bay." },
 		}
 	},
@@ -222,7 +222,7 @@ Table_003_Alliance_30to40 = {
 		--itemCount = 38,
 		items = {
 			[1] = { str = "1. 35-36 Stranglethorn Vale" },
-			[2] = { str = "2. Сдайте  #TURNINGoblin Sponsorship pt.2#  и берите следующее задание  #ACCEPTGoblin Sponsorship pt.3#" },
+			[2] = { str = "2. Сдайте  #TURNINGoblin Sponsorship pt.2#  и берите следующее задание  #ACCEPTGoblin Sponsorship pt.3#, Затем сдайте задание на пристане  #TURNINWharfmaster Dizzywig#  и возьмите  #ACCEPTParts for Kravel#" },
 			[3] = { str = "3. Идем в таверну и делаем ее домом, берите задание  #ACCEPTSinging Blue Shards#" },
 			[4] = { str = "4. Берите 2 задания  #ACCEPTHostile Takeover#  и  #ACCEPTBloodscalp Ears#" },
 			[5] = { str = "5. Берите задание  #ACCEPTThe Haunted Isle#  и сдаем его у двери, Берите задание  #ACCEPTThe Stone of the Tides# и сдаем  #TURNINGoblin Sponsorship pt.3#  берем следующее задание  #ACCEPTGoblin Sponsorship pt.4#" },
