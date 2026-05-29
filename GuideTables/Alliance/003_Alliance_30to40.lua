@@ -226,7 +226,7 @@ Table_003_Alliance_30to40 = {
 			[3] = { str = "3. Идем в таверну и делаем ее домом, берите задание  #ACCEPTSinging Blue Shards#" },
 			[4] = { str = "4. Берите 2 задания  #ACCEPTHostile Takeover#  и  #ACCEPTBloodscalp Ears#" },
 			[5] = { str = "5. Берите задание  #ACCEPTThe Haunted Isle#  и сдаем его у двери, Берите задание  #ACCEPTThe Stone of the Tides# и сдаем  #TURNINGoblin Sponsorship pt.3#  берем следующее задание  #ACCEPTGoblin Sponsorship pt.4#" },
-			[6] = { str = "6. Спуститесь ниже и берите задание  #ACCEPTSupply and Demand#  (находится под полетчиком)" },
+			[6] = { str = "6. Берите задание  #ACCEPTSupply and Demand#  (домик около полетчика)" },
 			[7] = { str = "7. Идите в точку 48,21 и убивайте Shadowmaw Panthers для задания  #DOQUESTPanther Mastery pt.3#", x = 48, y = 21, zone = "Stranglethorn Vale" },
 			[8] = { str = "8. Идите к гоблинам the Venture Co. в точке 43,18 и убивайте их для задания  #DOQUESTHostile Takeover#  пока вы поднимаетесь на башню для задания  #DOQUESTGoblin Sponsorship pt.4#  убейте бригадира Foreman Cozzle на верху башни.", x = 43, y = 18, zone = "Stranglethorn Vale" },
 			[9] = { str = "9. Если вы не выбили еще все кристаллы то продолжайте их выбивать затем войдите в маленький дом рядом с башней в точке 43,20 и откройте сундук для задания  #DOQUESTGoblin Sponsorship pt.4#", x = 43, y = 20, zone = "Stranglethorn Vale" },
