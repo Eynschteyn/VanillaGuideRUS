@@ -277,9 +277,9 @@ Table_003_Alliance_30to40 = {
 			[4] = { str = "4. Идите в Alterac Mountains в точку 47,55 и убивайте огров и получите Crushridge Bounty", x = 47, y = 55, zone = "Alterac Mountains" },
 			[5] = { str = "5. Идите и гриндите мобов до Strahnbrad в точке 60,43 и убивайте the syndicate и собирайте кольца для задания  #DOQUESTNoble Deaths#  Здесь можно убивать shadow mages для задания  #DOQUESTDark Council#  но проще их убивать в лагере чуть позже.", x = 60, y = 43, zone = "Alterac Mountains" },
 			[6] = { str = "6. Идите на северо-запад к дому в точке 39,16 и убейте #NPCNagaz# для задания  #DOQUESTDark Council#. Гриндите мобов около дома для достежения требований следующего шага гайда. ", x = 39, y = 16, zone = "Alterac Mountains" },
-			[7] = { str = "7. У вас должно быть не менее 2х делений до 37 уровня, затем используйте Hearthstone в Southshore" },
+			[7] = { str = "7. У вас должно быть не более 2х делений до 37 уровня, затем используйте Hearthstone в Southshore" },
 			[8] = { str = "8. Выйдите из дома и сдайте задание  #TURNINCrushridge Bounty#  следующее задание ПРОПУСТИТЕ" },
-			[9] = { str = "9. Вернитесь обратно и сдайте 2 задания  #TURNINDark Council#  и  #TURNINNoble Deaths#" },
+			[9] = { str = "9. Идите дальше в дом и сдайте 2 задания  #TURNINDark Council#  и  #TURNINNoble Deaths#" },
 			[10] = { str = "10. Летите в Arathi Highlands" },
 		}
 	},
