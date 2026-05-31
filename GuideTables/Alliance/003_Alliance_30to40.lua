@@ -297,7 +297,7 @@ Table_003_Alliance_30to40 = {
 			[3] = { str = "3. Бегите в точку 62,33 и возьмите задание у кристалла  #ACCEPTThe Princess Trapped#", x = 62, y = 33, zone = "Arathi Highlands" },
 			[4] = { str = "4. Идите восточнее от Hammerfall в точку 80,40. Между гор есть тропа в пещеру с кобольдами убивайте их для задания  #DOQUESTThe Princess Trapped#  В конце пещеры кристалл ему нужно сдать задание и взять новое  #ACCEPTStones of Binding#", x = 80, y = 40, zone = "Arathi Highlands" },
 			[5] = { str = "5. У вас должно быть около 25% полоски опыта когда вы выйдите из пещеры." },
-			[6] = { str = "6. Отправляйтесь в точку 66,30 and grab the cresting key from the rock.", x = 66, y = 30, zone = "Arathi Highlands" },
+			[6] = { str = "6. Отправляйтесь к стоунхэнджу в точке 66,30 и возьмите в центре у камня Cresting key.", x = 66, y = 30, zone = "Arathi Highlands" },
 			[7] = { str = "7. В точке 60,53 сдайте задание  #TURNINHints of a New Plague? Pt.1#  и берите следующее  #ACCEPTHints of a New Plague? Pt.2#  Убейте курьера (андеда) он ходит с охраной маршрут начинается от домика около поля до мельницы Tarren mill.", x = 60, y = 53, zone = "Arathi Highlands" },
 			[8] = { str = "8. Убивайте тролей в точке 67,69 для задания  #DOQUESTWorth Its Weight In Gold#  здесь вы можете получить клыки и мешочки с лекарствами. Что бы получить кинжал вам нужно убивать Shadow Hunters в точке 68,74", x = 68, y = 74, zone = "Arathi Highlands" },
 			[9] = { str = "9. Go to the circle of outer binding at 52,50 and grab the thundering key from the rock.", x = 52, y = 50, zone = "Arathi Highlands" },
