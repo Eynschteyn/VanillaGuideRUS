@@ -253,7 +253,7 @@ Table_003_Alliance_30to40 = {
 			[30] = { str = "30. Сдайте задание  #TURNINSinging Blue Shards#  пока что ПРОПУСТИТЕ следующее задание." },
 			[31] = { str = "31. Поднимитесь наверх и сдайте 3 задания  #TURNINInvestigate the Camp#,  #TURNINBloodscalp Ears# и #TURNINHostile Takeover#"" },
 			[32] = { str = "32. Выйдите наружу и сдайте задание  #TURNINThe Stone of the Tides#  и  #TURNINGoblin Sponsorship pt.4#  примите следующие задания  #ACCEPTWater Elementals#  и  #ACCEPTGoblin Sponsorship pt.5#" },
-			[33] = { str = "33. Сдайте задание  #TURNINSupply and Demand#  (находится под полетчиком) и примите задание  #ACCEPTSome assembly required#" },
+			[33] = { str = "33. Сдайте задание  #TURNINSupply and Demand#  (находится в домике рядом с полетчиком) и примите задание  #ACCEPTSome assembly required#" },
 			[34] = { str = "34. На данном этапе вы на половине пути к 37 уровню" },
 			[35] = { str = "35. Летите в Айронфордж, если вы ДРУИД летите в Штормград изучите новые навыки и летите Menethil Harbor, привяжите там Херстоун, и плывите на коробле в Theramore" },
 			[36] = { str = "36. Если навык First aid на отметке 225 выполните задание  #ACCEPTTriage#  Летите в Gadgetzan (Танарис)" },
