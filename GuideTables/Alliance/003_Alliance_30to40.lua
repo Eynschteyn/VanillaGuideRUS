@@ -300,7 +300,7 @@ Table_003_Alliance_30to40 = {
 			[6] = { str = "6. Отправляйтесь к стоунхэнджу с элементалями воды в точке 66,30 и возьмите в центре у камня Cresting key.", x = 66, y = 30, zone = "Arathi Highlands" },
 			[7] = { str = "7. В точке 60,53 сдайте задание  #TURNINHints of a New Plague? Pt.1#  и берите следующее  #ACCEPTHints of a New Plague? Pt.2#  Убейте курьера (андеда) он ходит с охраной маршрут начинается от домика около поля до мельницы Tarren mill.", x = 60, y = 53, zone = "Arathi Highlands" },
 			[8] = { str = "8. Убивайте тролей в точке 67,69 для задания  #DOQUESTWorth Its Weight In Gold#  здесь вы можете получить клыки и мешочки с лекарствами. Что бы получить кинжал вам нужно убивать Shadow Hunters в точке 68,74", x = 68, y = 74, zone = "Arathi Highlands" },
-			[9] = { str = "9. Go to the circle of outer binding at 52,50 and grab the thundering key from the rock.", x = 52, y = 50, zone = "Arathi Highlands" },
+			[9] = { str = "9. Идите ко второму стоунхэнджу в точке 52,50 убейте воздушных элементалей и возьмите thundering key в камне.", x = 52, y = 50, zone = "Arathi Highlands" },
 			[10] = { str = "10. отправляйтесь в точку 46,49 и сдайте задание  #TURNINWorth Its Weight In Gold#  откроется доступ к заданию  #ACCEPTWand Over Fist#  у ДРУГОГО НПС" },
 			[11] = { str = "11. Выполните задание  #DOQUESTWand Over Fist#  убив #NPCColdrage# в шещере по координатам 53,77 (идите по левой трапе) вернитесь обратно в 46. 49 и сдайте задание, все остально ПРОПУСКАЕМ", x = 53, y = 77, zone = "Arathi Highlands" },
 			[12] = { str = "12. Go to the circle of west binding at 25,30 and grab the burning key from the rock.", x = 25, y = 30, zone = "Arathi Highlands" },
