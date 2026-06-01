@@ -319,7 +319,7 @@ Table_003_Alliance_30to40 = {
 			[25] = { str = "25. Сопроводите НПС по завершению сдайте задание и берите следующее #ACCEPT“Hints of a New Plague? Pt.5”# далее Гриндите мобов пока не получите 38 уровень примерно 3500 опыта" },
 			[26] = { str = "26. Жмите камень Hearth в Southshore" },
 			[27] = { str = "27. Сдайте задание  #TURNIN“Hints of a New Plague? Pt.5”# около гостиницы" },
-			[28] = { str = "28. Отправляйтесь в Stormwind выучите новые навыки и возьмите задание #ACCEPTMorgan Stern# у Angus Stern в точке 41 89, далее летите Menethil и плывите на коробле Theramore", x = 41, y = 89, zone = "Stormwind" },
+			[28] = { str = "28. Отправляйтесь в Stormwind выучите новые навыки и возьмите задание #ACCEPTMorgan Stern# у Angus Stern в точке 41,89 далее летите Menethil и плывите на коробле Theramore", x = 41, y = 89, zone = "Stormwind" },
 		}
 	},
 
@@ -335,7 +335,7 @@ Table_003_Alliance_30to40 = {
 			[2] = { str = "2. Подойдите к гостинице и возьмите  #ACCEPT“They Call Him Smiling Jim”#" },
 			[3] = { str = "3. Зайдите к инкиперу и возьмите задание  #ACCEPT“Mudrock Soup and Bugs”#." },
 			[4] = { str = "4. Сделайте Theramore своим домом." },
-			[5] = { str = "5. Поднимитесь на второй этаж замка за гостиницей (не башня), сдаем задание  #TURNIN“They Call Him Smiling Jim”# должны открыться новые задания в старой (сгоревшей) гостинице не далеко от Barrens." },
+			[5] = { str = "5. Поднимитесь на второй этаж замка (не башня), сдаем задание  #TURNIN“They Call Him Smiling Jim”# должны открыться новые задания в старой (сгоревшей) гостинице не далеко от Barrens." },
 			[6] = { str = "6. Купите 3 soothing spices у торговца в точке 66,51 (это пригодится в дальнейшем) ", x = 66, y = 51, zone = "Dustwallow Marsh" },
 			[7] = { str = "7. Сразу при выходе из Theramore, поверните на право у побережъя убивайте Mudrock turtles для задания  #DOQUEST“Mudrock Soup and Bugs”#" },
 			[8] = { str = "8. Идите в очку 55,26 и возьмите задание со специями  #ACCEPT“Soothing Spices”# и сразу сдайте его, берите следующее  #ACCEPT“Jarl Needs eyes”#", x = 55, y = 26, zone = "Dustwallow Marsh" },
