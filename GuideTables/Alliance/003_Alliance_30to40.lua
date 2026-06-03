@@ -409,7 +409,7 @@ Table_003_Alliance_30to40 = {
 			[33] = { str = "33. Жмите #PICTUREHearth# в Booty Bay" },
 			[34] = { str = "34. Зайдите в магазин Tan-Your-Hide Leatherworks и сдайте задание  #TURNIN“Excelsior”#" },
 			[35] = { str = "35. Летите в IF и возьмите задание  #ACCEPT“Ironband Wants You”#  у Prospector Stormpike в точке 74,11. Далее летите к тренеру выучите навыки и купите маунта." },
-			[36] = { str = "36.	!Сейчас будет дорогая подготовка к цепочке заданий купите на аукционе frost oil 1 шт и gyrochronatom 1 шт для задания в Badlands если купили эти 2 вещи то купите еще и healing potion 1 шт. и lesser invisibility potion 1 шт. (если вы не купили первые 2 вещи то и остальное покупать не нужно).", x = 74, y = 11, zone = "Iron Forge" },
+			[36] = { str = "36. !Сейчас будет дорогая подготовка к цепочке заданий купите на аукционе frost oil 1 шт и gyrochronatom 1 шт для задания в Badlands если купили эти 2 вещи то купите еще и healing potion 1 шт. и lesser invisibility potion 1 шт. (если вы не купили первые 2 вещи то и остальное покупать не нужно).", x = 74, y = 11, zone = "Iron Forge" },
 			[37] = { str = "37. Летите в Loch Modan (если оходник то поставьте питомца в стойло), сделайте Thelsamar своим домом." },
 			[38] = { str = "38. Зайдите в гостиницу и возьмите задание  #ACCEPT“Badlands Reagent Run”#" },
 			[39] = { str = "39. Бегите в точку 65,65 и возьмите задание  #ACCEPT“Find Agmond”#", x = 65, y = 65, zone = "Loch Modan" },
