@@ -400,7 +400,7 @@ Table_003_Alliance_30to40 = {
 			[24] = { str = "24. Следуйте вдоль нижнего причала к инкиперу и сдайте задание  #TURNIN“The Bloodsail Buccaneers pt.2”#  берите следующее  #ACCEPT“The Bloodsail Buccaneers pt.3”#" },
 			[25] = { str = "25. Зайдите в дом рядом с гостиницей и сдайте задание  #TURNIN“Return to MacKinley”#  берите следующее задание  #ACCEPT“Voodoo Dues”#" },
 			[26] = { str = "26. Поднимитесь на верх в гостинницу и возьмите  #ACCEPT“Up To Snuff”#" },
-			[27] = { str = "27. Выйдите на ружу и сдайте  #TURNIN“The Bloodsail Buccaneers pt.3”#  и возьмите следующее  #ACCEPT“The Bloodsail Buccaneers pt.4”#" },
+			[27] = { str = "27. Выйдите на полукорабль и сдайте  #TURNIN“The Bloodsail Buccaneers pt.3”#  и возьмите следующее  #ACCEPT“The Bloodsail Buccaneers pt.4”#" },
 			[28] = { str = "28. У вас должны быть уже все траницы STV, если нет купите те которых вам не хватает. Страницы идут в таком порядке: 1,4,6,8, 10,11,14,16, 18,20,21,24, 25,26,27" },
 			[29] = { str = "29. Идите к побережъю Grom’Gol и найдите элитных крокодилов 38 уровня для задания  #DOQUEST“Excelsior”#  опосайтесь охраны" },
 			[30] = { str = "30. Бегите в лагерь Nessingways в точке 35,10 и сдайте задания  #TURNIN“Raptor Mastery pt.3”#  и  #TURNIN“Panther Mastery pt.4”#  возьмите  #ACCEPT“Raptor Mastery pt.4”#", x = 35, y = 10, zone = "Stranglethorn Vale" },
