@@ -398,7 +398,7 @@ Table_003_Alliance_30to40 = {
 			[22] = { str = "22. Идите обратно в Booty Bay" },
 			[23] = { str = "23. Поверните на лево после тунеля и сдайте задание  #TURNIN“Scaring Shaky”#  возьмите следующее задание  #ACCEPT“Return to MacKinley”#" },
 			[24] = { str = "24. Следуйте вдоль нижнего причала к инкиперу и сдайте задание  #TURNIN“The Bloodsail Buccaneers pt.2”#  берите следующее  #ACCEPT“The Bloodsail Buccaneers pt.3”#" },
-			[25] = { str = "25. Зайдите в дом на против полукоробля и сдайте задание  #TURNIN“Return to MacKinley”#  следующее возьмите  #ACCEPT“Voodoo Dues”#" },
+			[25] = { str = "25. Зайдите в дом рядом с гостиницей и сдайте задание  #TURNIN“Return to MacKinley”#  следующее возьмите  #ACCEPT“Voodoo Dues”#" },
 			[26] = { str = "26. Поднимитесь на верх в гостинницу и возьмите  #ACCEPT“Up To Snuff”#" },
 			[27] = { str = "27. Выйдите на ружу и сдайте  #TURNIN“The Bloodsail Buccaneers pt.3”#  и возьмите следующее  #ACCEPT“The Bloodsail Buccaneers pt.4”#" },
 			[28] = { str = "28. У вас должны быть уже все траницы STV, если нет купите те которых вам не хватает. Страницы идут в таком порядке: 1,4,6,8, 10,11,14,16, 18,20,21,24, 25,26,27" },
