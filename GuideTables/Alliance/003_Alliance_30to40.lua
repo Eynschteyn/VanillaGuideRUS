@@ -372,7 +372,7 @@ Table_003_Alliance_30to40 = {
 		title = "38-40 Stranglethorn Vale",
 		--n = "38-40 Stranglethorn Vale",
 		--pID = 311, nID = 401,
-		--itemCount = 42,
+		--itemCount = 43,
 		items = {
 			[1] = { str = "1. 38-40 Stranglethorn Vale" },
 			[2] = { str = "2. Идите к инкиперу, возьмите задание  #ACCEPT“The Bloodsail Buccaneers pt.1”#  по пути" },
@@ -412,10 +412,11 @@ Table_003_Alliance_30to40 = {
 			[36] = { str = "36. Летите в IF и возьмите задание  #ACCEPT“Ironband Wants You”#  у Prospector Stormpike в точке 74,11." },
 			[37] = { str = "37. !Сейчас будет дорогая подготовка к цепочке заданий купите на аукционе frost oil 1 шт и gyrochronatom 1 шт для задания в Badlands, если купили эти 2 вещи то купите еще и healing potion 1 шт. и lesser invisibility potion 1 шт. (если вы не купили первые 2 вещи то и остальное покупать не нужно).", x = 74, y = 11, zone = "Iron Forge" },
 			[38] = { str = "38. !Это тоже подготовка, но уже к другому заданию в Badlands, купите на аукционе Blue Pearl 9 шт (выбивать их смысла нет, т.к. они падают с элитных мобов либо же нужно плавать под водой и вскрывать раковины короче долго и муторно)." },
-			[39] = { str = "39. Летите в Loch Modan (если оходник то поставьте питомца в стойло), сделайте Thelsamar своим домом." },
-			[40] = { str = "40. Зайдите в гостиницу и возьмите задание  #ACCEPT“Badlands Reagent Run”#" },
-			[41] = { str = "41. Бегите в точку 65,65 и сдайте задание  #TURNIN“Ironband Wants You”#,  берите задание  #ACCEPT“Find Agmond”#", x = 65, y = 65, zone = "Loch Modan" },
-			[42] = { str = "42. Идите на юг в Badlands в точку 46,76", x = 46, y = 76, zone = "Loch Modan" },
+			[39] = { str = "39. Летите в Loch Modan (если оходник то поставьте питомца в стойло)" },
+			[40] = { str = "40. Cделайте Thelsamar своим домом." },
+			[41] = { str = "41. Зайдите в гостиницу и возьмите задание  #ACCEPT“Badlands Reagent Run”#" },
+			[42] = { str = "42. Бегите в точку 65,65 и сдайте задание  #TURNIN“Ironband Wants You”#,  берите задание  #ACCEPT“Find Agmond”#", x = 65, y = 65, zone = "Loch Modan" },
+			[43] = { str = "43. Идите на юг в Badlands в точку 46,76", x = 46, y = 76, zone = "Loch Modan" },
 		}
 	},
 }
