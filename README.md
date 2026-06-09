@@ -4,7 +4,7 @@
     <strong>Полное руководство по прокачке персонажа в игре World of Warcraft 1.12.1 Vanilla</strong>
   </p>
   <p align="center">
-    <a href="https://github.com/GabHST/VanillaGuide-Enhanced/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen" alt="Version"></a>
+    <a href="https://github.com/GabHST/VanillaGuide-Enhanced/releases/tag/v2.0.0"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen" alt="Version"></a>
     <img src="https://img.shields.io/badge/WoW-1.12.1_Vanilla-yellow" alt="WoW">
     <img src="https://img.shields.io/badge/languages-EN_|_PT--BR-blue" alt="Languages">
     <img src="https://img.shields.io/github/downloads/GabHST/VanillaGuide-Enhanced/total?color=purple&label=downloads" alt="Downloads">
