@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/WoW-1.12.1_Vanilla-yellow" alt="WoW">
     <img src="https://img.shields.io/badge/languages-RUS-blue" alt="Languages">
     <img src="https://img.shields.io/github/downloads/GabHST/VanillaGuide-Enhanced/total?color=purple&label=downloads" alt="Downloads">
-    <a href="https://github.com/Eynschteyn/VanillaGuide/stargazers"><img src="https://img.shields.io/github/stars/GabHST/VanillaGuide-Enhanced?style=flat&color=orange" alt="Stars"></a>
+    <a href="https://github.com/Eynschteyn/VanillaGuide/stargazers"><img src="https://img.shields.io/github/stars/Eynschteyn/VanillaGuide?style=flat&color=orange" alt="Stars"></a>
   </p>
 </p>
 
