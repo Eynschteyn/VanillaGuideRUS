@@ -22,6 +22,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Eynschteyn/pfQuest/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-pfQuest-2ea44f?style=for-the-badge" alt="Download">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/GabHST/VanillaGuide-Enhanced/releases/download/v2.0.0/VanillaGuide-Enhanced.zip">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-Portugu%C3%AAs_(BR)-2ea44f?style=for-the-badge" alt="Download PT-BR">
+  </a>
+</p>
+
+---
 
 VanillaGuide
 ============
