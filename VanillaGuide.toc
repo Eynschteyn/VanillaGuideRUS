@@ -2,7 +2,7 @@
 ## Title: VanillaGuide by Eynsch |cff7fff7f -Ace2-|r
 ## Notes: Shag za shagom ot 1 do 60 lvla.
 ## Author: Eynschteyn
-## Version: 1.1.0 RUS
+## Version: 1.1.0
 ## DefaultState: enabled
 ## LoadOnDemand: 0
 
