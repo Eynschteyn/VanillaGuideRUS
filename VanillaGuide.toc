@@ -11,7 +11,7 @@
 ## X-Date: 2013-04-04
 ## X-ReleaseDate: 2012-xx-xx
 ## X-Email: rsheep@gmail.com
-## X-Website: http://vanillaguide.googlecode.com
+## X-Website: https://github.com/Eynschteyn
 ## X-Embeds: Ace2, FuBar-Plugin-2.0, Tablet-2.0
 ## OptionalDeps: Ace2, FuBar, Tablet-2.0, MetaMap, TomTom
 
