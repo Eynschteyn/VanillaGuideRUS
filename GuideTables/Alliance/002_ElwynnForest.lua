@@ -76,7 +76,7 @@ Table_002_ElwynnForest = {
 			[46] = { str = "46. Бегите к мосту в точке 73,72 и сдайте задание #TURNINFurther Concerns# и возьмите #ACCEPTFind the Lost Guards# и #ACCEPTProtect the Frontier#", x = 73, y = 72, zone = "Elwynn Forest" },
 			[47] = { str = "47. Оставовитесь у дома на северо-востоке отсюда в точке 79,68 и возьмите задание #ACCEPTRed Linen Goods#", x = 79, y = 68, zone = "Elwynn Forest" },
 			[48] = { str = "48. В центре лагеря по координатам 81,66 возьмите задание #ACCEPTA Bundle of Trouble#", x = 81, y = 66, zone = "Elwynn Forest" },
-			[49] = { str = "49. Run just west of the waterfall at 72,60 touch the mangled body and turn in #TURNINFind the Lost Guards# accept #ACCEPTDiscover Rolf’s Fate# You should now be level 8, if not grind until you are.", x = 72, y = 60, zone = "Elwynn Forest" },
+			[49] = { str = "49. Идите на запад от водопада в точку 72,60 коснитесь изувеченного тела и сдайте задание #TURNINFind the Lost Guards#, возьмите задание #ACCEPTDiscover Rolf’s Fate# Сейчас у вас длжен быть 8 уровень, если нет то гриндите мобов пока не получите его", x = 72, y = 60, zone = "Elwynn Forest" },
 			[50] = { str = "50. Go to the murloc camp at 79,55 and loot the mangled body there (might need a group, but usually always people here) and turn in #TURNINDiscover Rolf’s Fate# accept #ACCEPTReport to Thomas#", x = 79, y = 55, zone = "Elwynn Forest" },
 			[51] = { str = "51. Go south to 81,66 and turn in #TURNIN“A Bundle of Trouble”#", x = 81, y = 66, zone = "Elwynn Forest" },
 			[52] = { str = "52. Cross the road and go south and east and finish killing the bears and wolves for #DOQUEST“Protect the Frontier”# bears are kinda scarce so you might have to search." },
