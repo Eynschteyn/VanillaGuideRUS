@@ -13,8 +13,8 @@ Description: Guide Serie - 001 Elwynn Forest
 	1.04.3
 		-- Added color codes
 			Fixed various spelling errors
-Автор перевода и актуализации: Eynschteyn
-Version: 1.1.0
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
