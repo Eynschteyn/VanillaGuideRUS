@@ -56,7 +56,7 @@ Table_003_Alliance_40to50 = {
 			[24] = { str = "24. Убивайте greater rock elementals в точке 14,88 для задлания  #DOQUEST“Study of the Elements: Rock#", x = 14, y = 88, zone = "Badlands" },
 			[25] = { str = "25. Идите назад в точку 26,44 сдайте задание  #TURNIN“Study of the Elements: Rock pt.3”#" },
 			[26] = { str = "26. Сейчас у вас должно открыться задание из 7 шага возьмите его и сдайте если не сдавали его раньше (все необходимое должно быть у вас в инвентаре купленное на ауке)" },
-			[27] = { str = "27. Возьмите задание  #ACCEPT“This Is Going To Be Hard pt.1”#  повернитесь и сдайте его, возьмите следующее задание  #ACCEPT“This Is Going To Be Hard pt.2”#  повернитесь и снова сдайте его, возьмите следующее задание  #ACCEPT“This Is Going To Be Hard pt.3”#", x = 26, y = 44, zone = "Badlands" },
+			[27] = { str = "27. Возьмите задание  #ACCEPT“This Is Going To Be Hard pt.1”# и сдайте его рядом, возьмите следующее задание  #ACCEPT“This Is Going To Be Hard pt.2”# и снова сдайте его рядом, возьмите следующее задание  #ACCEPT“This Is Going To Be Hard pt.3”#", x = 26, y = 44, zone = "Badlands" },
 			[28] = { str = "28. Убейте призванного элементаля он 45 уровня. Затем сдайте его и получите свой Nifty Stopwatch" },
 			[29] = { str = "29. Идите в точку 53,43 и сдайте  #TURNIN“Scrounging”#", x = 53, y = 43, zone = "Badlands" },
 			[30] = { str = "30. Идите в точку 61,54 и сдайте заадние  #TURNIN“Tremors of the Earth”# следующее задание ПРОПУСТИТЕ", x = 61, y = 54, zone = "Badlands" },
