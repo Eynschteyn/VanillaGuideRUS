@@ -64,10 +64,9 @@ Table_003_Alliance_40to50 = {
 			[32] = { str = "32. Жмите Hearth в Thelsamar" },
 			[33] = { str = "33. Идите в дом за гостиницей и сдайте задание  #TURNIN“Badlands Reagent Run”#  берите часть заданий относящиеся к Uldaman" },
 			[34] = { str = "34. Бегите в точку 65,65 и сдайте задание  #TURNIN“Murdaloc”#  берите еще задание Uldaman. Сейчас я уже заполнил полоску опыта на 25% до 41 уровня", x = 65, y = 65, zone = "Loch Modan" },
-			[35] = { str = "35. #PICTUREЛетите в Duskwood#"},
-			[36] = { str = "36. #PICTUREОстановитесь тут в гостинице#."}, 
-			[37] = { str = "37. #PICTUREЛетите в SW# и идите в точку 64,20 и возьмите задание  #ACCEPT“In Search of The Temple”#", x = 64, y = 20, zone = "Stormwind" },
-			[38] = { str = "38. #PICTUREЛетите назад в Duskwood#, Бегите в Swamp of Sorrows" },
+			[35] = { str = "35. Летите в SW и идите в точку 64,20 и возьмите задание  #ACCEPT“In Search of The Temple”#", x = 64, y = 20, zone = "Stormwind" },
+			[36] = { str = "36. Летите в Duskwood и сделайте его своим домом" },
+			[37] = { str = "37. Бегите в Swamp of Sorrows" },
 		}
 	},
 
