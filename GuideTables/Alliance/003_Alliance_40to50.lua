@@ -96,7 +96,7 @@ Table_003_Alliance_40to50 = {
 			[14] = { str = "14. Направляйся на юг в Blasted Lands в точку 36,59 к крепости Nethergarde Keep в точку 54,78. Откройте полетчика и летите Darkshire.", x = 54, y = 78, zone = "Blasted Lands" },
 			[15] = { str = "15. #HUNTERОставьте кошку в стойле и возьмите другую из Badlands.#" },
 			[16] = { str = "16. Возьмите задание  #ACCEPT“Supplies for Nethergarde”#" },
-			[17] = { str = "17. #PICTUREЛетите в крепость Nethergarde#, и сдайте задание  #TURNIN“Supplies for Nethergarde”#." },
+			[17] = { str = "17. Летите в крепость Nethergarde и сдайте задание  #TURNIN“Supplies for Nethergarde”#." },
 			[18] = { str = "18. Вернитесь обратно в Swamp of Sorrows." },
 			[19] = { str = "19. Бегите к озеру вогруг подземелья Sunken Temple в точке 70,54 и разведайте территорию для задания  #DOQUESTIn Search of The Temple#", x = 70, y = 54, zone = "Swamp of Sorrows" },
 			[20] = { str = "20. Идите в точку 76,6 и начинайте убивать crawlers и work для задания  #DOQUEST“… and bugs”# until it’s пока не выполните задание. Ищите деревянные доски на земле для задания  #DOQUEST“Driftwood”#", x = 76, y = 6, zone = "Swamp of Sorrows" },
