@@ -81,7 +81,7 @@ Table_003_Alliance_40to50 = {
 			[1] = { str = "1. 41-41 Swamp of Sorrows" },
 			[2] = { str = "2. Бегите в Swamp of Sorrows, в точку 12,58  и убивайте whelps для задания  #DOQUEST“Dream Dust In the Swamp”#  шанс выпадения квестовых предметов низкий.", x = 12, y = 58, zone = "Swamp of Sorrows" },
 			[3] = { str = "3. Идите в точку 26,59 и возьмите задание  #ACCEPT“Enroaching Wildlife”#  и начинайте его выполнять все мобы находятся не далеко отсюда.", x = 26, y = 59, zone = "Swamp of Sorrows" },
-			[4] = { str = "4. Идите наверх и найдите Noboru the Cudgel в области 43,38 и получите предмет который начинает задание  #ACCEPT“Noboru the Cudgel”#", x = 43, y = 38, zone = "Swamp of Sorrows" },
+			[4] = { str = "4. Идите в точку 43,38 от этой точки идите на восток и ищите НПС Noboru the Cudgel  и получите предмет который начинает задание  #ACCEPT“Noboru the Cudgel”# для поиска НПС сделайте макрос /tar nobo т.к. моб ходит в той области", x = 43, y = 38, zone = "Swamp of Sorrows" },
 			[5] = { str = "5. Вернитесь в точку 26,59 и сдайте задание  #TURNIN“Enroaching Wildlife”#  возьмите следующее  #ACCEPT“The Lost Caravan”#", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[6] = { str = "6. Гриндите мобов по пути в точку 25,31  и сдайте задание  #TURNIN“Noboru the Cudgel”#  возьмите следующее  #ACCEPT“Draenethyst Crystals”#", x = 25, y = 31, zone = "Swamp of Sorrows" },
 			[7] = { str = "7. Идите в точку 54,29 и начинайте собирать кристаллы для задания  #DOQUEST“Draenethyst Crystals”#", x = 54, y = 29, zone = "Swamp of Sorrows" },
