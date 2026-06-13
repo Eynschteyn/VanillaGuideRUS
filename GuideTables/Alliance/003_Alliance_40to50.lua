@@ -99,7 +99,7 @@ Table_003_Alliance_40to50 = {
 			[17] = { str = "17. Летите в крепость Nethergarde и сдайте задание  #TURNIN“Supplies for Nethergarde”#." },
 			[18] = { str = "18. Вернитесь обратно в Swamp of Sorrows." },
 			[19] = { str = "19. Бегите к озеру вогруг подземелья Sunken Temple в точке 70,54 и разведайте территорию для задания  #DOQUESTIn Search of The Temple#", x = 70, y = 54, zone = "Swamp of Sorrows" },
-			[20] = { str = "20. Идите в точку 76,6 и начинайте убивать крабов и для задания  #DOQUEST“… and bugs”# пока не выполните задание. Ищите деревянные 111111111 на земле для задания  #DOQUEST“Driftwood”#", x = 76, y = 6, zone = "Swamp of Sorrows" },
+			[20] = { str = "20. Идите в точку 76,6 и начинайте убивать крабов и для задания  #DOQUEST“… and bugs”# пока не выполните задание. Ищите сухие деревья на берегу для задания  #DOQUEST“Driftwood”#", x = 76, y = 6, zone = "Swamp of Sorrows" },
 			[21] = { str = "21. #HUNTERКогда вы выполните предыдущие 2 задания отпустите кошку и приручите silt crawler 40-41 уровня что бы выучить способность claw 6 ранга.#" },
 			[22] = { str = "22. Жмите #PICTUREHearth# в Darkshire #HUNTERЗаберите свою кошку обратно из стойла.#" },
 			[23] = { str = "23. Летите в Nethergarde и бегите назад в Swamp of Sorrows." },
