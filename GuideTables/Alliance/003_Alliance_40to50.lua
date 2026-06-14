@@ -153,7 +153,7 @@ Table_003_Alliance_40to50 = {
 			[6] = { str = "6. Зайдите в дом рядом с гостиницей и возьмите задание  #ACCEPT“Stoley's Debt”#" },
 			[7] = { str = "7. Поднимитесь на 2й уровень причала и за углом возьмите задание  #ACCEPT“Keep An Eye Out”#" },
 			[8] = { str = "8. Выходите из BB и поворачивайте направо и на юг в точке 31,79 и убивайте пиратов для заданий  #DOQUEST“Up To Snuff”#  и  #DOQUEST“Keep An Eye Out”#", x = 31, y = 79, zone = "Stranglethorn Vale" },
-			[9] = { str = "9. Убивайте пиратов вокруг 2х лагерей в точке 29,81 и 27,82 для задания  #DOQUEST“The Bloodsail Buccaneers pt.4”#", x = 27, y = 82, zone = "Stranglethorn Vale" },
+			[9] = { str = "9. Убивайте пиратов вокруг 2х лагерей в точке 29,81 и 27,82 для задания  #DOQUEST“The Bloodsail Buccaneers pt.4”# не забудьте взять 2 записки в лодке и на ящике у палатки", x = 27, y = 82, zone = "Stranglethorn Vale" },
 			[10] = { str = "10. Вернитесь в BB и поверните на лево." },
 			[11] = { str = "11. Сдайте задание  #TURNIN“Keep An Eye Out”# около кузнецы." },
 			[12] = { str = "12. Идите в гостиницу и сдайте задание  #TURNIN“Up To Snuff”#" },
