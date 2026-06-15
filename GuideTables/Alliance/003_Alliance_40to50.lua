@@ -16,6 +16,8 @@ Description: Guide Serie - 003 From Lvl 40 to Lvl 50
 	1.05.0
         -- Added Hunter Sepecfic steps
         -- Still do in this section add numbered steps to rest of this guide, add qoutes to Quests, add COORDS color to travel directions, and check to see if NPC color has been missed used
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
