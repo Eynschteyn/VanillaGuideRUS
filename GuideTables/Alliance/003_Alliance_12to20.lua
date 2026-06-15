@@ -13,6 +13,8 @@ Description: Guide Serie - 003 From Lvl 12 to Lvl 20
 	1.04.3
 		-- Added color codes
 			Fixed various spelling errors
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
