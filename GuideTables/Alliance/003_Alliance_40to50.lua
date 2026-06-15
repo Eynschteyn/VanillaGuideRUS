@@ -429,13 +429,13 @@ Table_003_Alliance_40to50 = {
 		--itemCount = 8,
 		items = {
 			[1] = { str = "1. 48-48 The Hinterlands" },
-			[2] = { str = "2. Go in the base downstairs to 14,43 and turn in #TURNIN“The Newest Member of the Family”# accept #ACCEPT“Food For Baby”#", x = 14, y = 43, zone = "The Hinterlands" },
-			[3] = { str = "3. Run up to 26,48 and turn in #TURNIN“Rhapsody's Kalimdor Kocktail”# Accept #ACCEPT“Rhapsody's Tale”#", x = 26, y = 48, zone = "The Hinterlands" },
-			[4] = { str = "4. Grind down to the lake at 40,59 and Violet Tragan (Mushroom) from the bottom of the lake for #DOQUEST“Sprinkle's Secret Ingredient”#", x = 40, y = 59, zone = "The Hinterlands" },
-			[5] = { str = "5. Grind until you’re east of 57,47 and kill Silvermane Stalkers for #DOQUEST“Food For Baby”#", x = 57, y = 47, zone = "The Hinterlands" },
-			[6] = { str = "6. Run back to Aerie Peak and go to the bottom floor of the Inn" },
-			[7] = { str = "7. Turn in #TURNIN“Food For Baby”# accept #ACCEPT“Becoming A Parent”# then turn it back in. Cute pet and good xp =)" },
-			[8] = { str = "8. Hearth to IF and fly to BB" },
+			[2] = { str = "2. Спуститесь в низ в точку 14,43 и сдайте задание #TURNIN“The Newest Member of the Family”# возьмите следующее #ACCEPT“Food For Baby”#", x = 14, y = 43, zone = "The Hinterlands" },
+			[3] = { str = "3. Идите в точку 26,48 и сдайте #TURNIN“Rhapsody's Kalimdor Kocktail”# возьмите задание #ACCEPT“Rhapsody's Tale”#", x = 26, y = 48, zone = "The Hinterlands" },
+			[4] = { str = "4. Гриндите по пути к озеру в точку 40,59 и найдите на дне гриб Violet Tragan (Mushroom) для задания #DOQUEST“Sprinkle's Secret Ingredient”#", x = 40, y = 59, zone = "The Hinterlands" },
+			[5] = { str = "5. Гриндите пока идете в точку 57,47 и убивайте kill Silvermane Stalkers для задания #DOQUEST“Food For Baby”#", x = 57, y = 47, zone = "The Hinterlands" },
+			[6] = { str = "6. Вернитесь на вершину Aerie Peak и спуститесь на нижний этаж гостиницы" },
+			[7] = { str = "7. Сдайте задание #TURNIN“Food For Baby”# и возьмите #ACCEPT“Becoming A Parent”# и тут же сдайте его тут же" },
+			[8] = { str = "8. Жмите Hearth в IF (Стальгорн) и летите в BB (Пиратская бухта)" },
 		}
 	},
 
