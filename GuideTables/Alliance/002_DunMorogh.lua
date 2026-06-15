@@ -16,6 +16,8 @@ Description: Guide Serie - 002 DunMorogh
         -- Changed last step of 6-12 guide to be the correct direction	
     1.05.0
         -- Fixed 6-12 Section missing about five steps	
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
@@ -30,10 +32,10 @@ Table_002_DunMorogh = {
         --itemCount = 25,
         items = {
             [1] = { str = "1. 1-6 Cold Ridge Valley" },
-            [2] = { str = "2. Right in front of where you start accept #ACCEPT“Dwarven Outfitters”#" },      
-            [3] = { str = "3. Go south around 28,73 and do #DOQUEST“Dwarven Outfitters”# then go back to 29,71 and turn in #TURNIN“Dwarven Outfitters”# then accept #ACCEPT“Encrypted Rune”# and #ACCEPT“Coldridge Valley Mail Delivery pt.1”# ", x = 29, y = 71, zone = "Dun Morogh" },
-            [4] = { str = "4. To your left accept #ACCEPT“A New Threat”# " },
-            [5] = { str = "5. At 30,74 kill Burly Troggs and at 26,72 there is a camp of Rockjaw Troggs, kill them for #DOQUEST“A New Threat”# ", x = 26, y = 72, zone = "Dun Morogh" },
+            [2] = { str = "2. Берите задание #ACCEPT“Dwarven Outfitters”#" },      
+            [3] = { str = "3. Идите на юг в точку 28,73 выполните задание #DOQUEST“Dwarven Outfitters”# вернитесь в точку 29,71 и сдайте задание #TURNIN“Dwarven Outfitters”# then возьмите следующие #ACCEPT“Encrypted Rune”# и #ACCEPT“Coldridge Valley Mail Delivery pt.1”# ", x = 29, y = 71, zone = "Dun Morogh" },
+            [4] = { str = "4. С лева от вас возьмите задание #ACCEPT“A New Threat”# " },
+            [5] = { str = "5. В точке 30,74 убейте Burly Troggs и в точке 26,72 находится лагерь Rockjaw Troggs, убейте их для задания #DOQUEST“A New Threat”# ", x = 26, y = 72, zone = "Dun Morogh" },
             [6] = { str = "6. Go back to 29,71 and turn in #TURNIN“A New Threat”# you should be level 3 now " },
             [7] = { str = "7. Go to Anvilmar at 28,69 and turn in your classes skill npc quest which was “Encrypted Rune for a rogue”", x = 28, y = 69, zone = "Dun Morogh" },
             [8] = { str = "8. Accept #ACCEPT“A Refugee's Quandary”# inside " },
