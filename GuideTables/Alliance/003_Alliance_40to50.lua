@@ -465,7 +465,7 @@ Table_003_Alliance_40to50 = {
 			[16] = { str = "16. Идите в точку 38,80 и сдайте #TURNIN“Message in A Bottle pt.1”# ПРОПУСТИТЕ следующее задание если не сможете найти группу для убийства гориллы 51 уровня", x = 38, y = 80, zone = "Stranglethorn Vale" },
 			[17] = { str = "17. Идите к пиратским кораблям и убейте командиров на каждом корабле, их можно найти внутри коробля в носовой части. Корабли находятся в точке 33,87 и 30,88 для #DOQUEST“The Bloodsail Buccaneers pt.5”#", x = 33, y = 87, zone = "Stranglethorn Vale" },
 			[18] = { str = "18. Найдите на одном из кораблей свиток Cortello's Riddle возьмите у него задание #ACCEPT“Cortello's Riddle pt.1”#" },
-			[19] = { str = "19. If hearth is up, use it, otherwise die so you end up at BB" },
+			[19] = { str = "19. Жмите hearth, если он на кд то умрите и вы окажетесь в BB (Пиратской бухте)" },
 			[20] = { str = "20. Идите к причалу корабля и сдайте #TURNIN“The Captain's Chest”#" },
 			[21] = { str = "21. Зайдите в таверну и сдайте #TURNIN“The Bloodsail Buccaneers pt.5”#" },
 			[22] = { str = "22. Летите в SW (Шторм) в точке 64,20 сдайте #TURNIN“Rhapsody's Tale”# следующее задание ПРОПУСТИТЕ", x = 64, y = 20, zone = "Stormwind" },
