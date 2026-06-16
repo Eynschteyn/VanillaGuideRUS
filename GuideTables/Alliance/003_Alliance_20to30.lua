@@ -52,7 +52,7 @@ Table_003_Alliance_20to30 = {
         title = "21-22 Ashenvale",
         --n = "21-22 Ashenvale",
         --pID = 201, nID = 203, 
-        --itemCount = 33,
+        --itemCount = 35,
         items = {
             [1] = { str = "1. 21-22 Ashenvale" },
             [2] = { str = "2. Идите в точку 26,36 к заставе Maestra’s Post в Ashenvale для задания #DOQUESTThe Sleeper Has Awakened# сдайте его прямо здесь.", x = 26, y = 36, zone = "Ashenvale" },
@@ -68,7 +68,7 @@ Table_003_Alliance_20to30 = {
             [12] = { str = "12. Перейдите дорогу рядом с беседкой возьмите задание #ACCEPTJourney to Stonetalon Peak#" },
             [13] = { str = "13. В таверне возьмите задания #ACCEPTRaene's Cleansing pt.1# и #ACCEPTCulling the Threat#." },
             [14] = { str = "14. Сделайте Astranaar своим домом" },
-			[15] = { str = "15.	#HUTNERЗадание охотника, оставьте своего питомца в стойле#" },
+			[15] = { str = "15. #HUTNERЗадание охотника, оставьте своего питомца в стойле#" },
             [16] = { str = "16. Сдайте задание #TURNINOrendil's Cure# у последнего дома и возьмите задание #ACCEPTElune's Tear#" },
             [17] = { str = "17. Идите на берег Zoram Strand в точке 14,31 возьмите задание #ACCEPTThe Ancient Statuette#", x = 14, y = 31, zone = "Ashenvale" },
             [18] = { str = "18. #HUNTERПриручите Clattering Crawler 20 уровня чтобы изучить навык Claw Rank 3 и Growl Rank 3#"},
