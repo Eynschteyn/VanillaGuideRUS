@@ -46,7 +46,7 @@
   </a>
   &nbsp;&nbsp;  
   <a href="https://github.com/Eynschteyn/ShaguTweaks-extras/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-ShaguTweaks-extras-2ea44f?style=for-the-badge" alt="Download">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-ShaguTweaksextras-2ea44f?style=for-the-badge" alt="Download">
 
 ---
 
