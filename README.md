@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">VanillaGuide RUS</h1>
   <p align="center">
-    <strong>Полное руководство по прокачке персонажа в игре World of Warcraft 1.12.1 Vanilla</strong>
+    <strong>Руководство по прокачке персонажа в игре World of Warcraft 1.12.1 Vanilla</strong>
   </p>
   <p align="center">
     <a href="https://github.com/GabHST/VanillaGuide-Enhanced/releases/tag/v2.0.0"><img src="https://img.shields.io/badge/version-1.1.0-brightgreen" alt="Version"></a>
