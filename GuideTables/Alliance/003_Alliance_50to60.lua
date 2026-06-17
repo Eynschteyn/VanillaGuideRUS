@@ -30,9 +30,9 @@ Table_003_Alliance_50to60 = {
 		--itemCount = 72,
 		items = {
 			[1] = { str = "1. 50-51 Searing Gorge" },
-			[2] = { str = "2. Go down to 65,62 and touch the outhouse, accept #ACCEPTCaught!#", x = 65, y = 62, zone = "Searing Gorge" },
-			[3] = { str = "3. Go just below the outhouse and kill the geologists for #DOQUESTCaught!#" },
-			[4] = { str = "4. Clear all the mobs and at the bottom of the little pit, accept #ACCEPTSuntara Stones pt.1# escort him to 74,19 and when he dies grab the note which starts #ACCEPTSuntara Stones pt.2#", x = 74, y = 19, zone = "Searing Gorge" },
+			[2] = { str = "2. Идите в точку 65,62 у туалета возьмите задание #ACCEPTCaught!#", x = 65, y = 62, zone = "Searing Gorge" },
+			[3] = { str = "3. Спуститесь с горки и убивайте геологов для задания #DOQUESTCaught!#" },
+			[4] = { str = "4. Уничтожте всех мобов и в яме возьмите задание #ACCEPTSuntara Stones pt.1#, сопроводите до точки 74,19 и когда он умрет возьмите записку и примите задание #ACCEPTSuntara Stones pt.2#", x = 74, y = 19, zone = "Searing Gorge" },
 			[5] = { str = "5. Run back down near the outhouse at 65,62 and get the last of your geologist kills if you need them and turn in #TURNINCaught!# at the outhouse, accept #ACCEPTLedger From Tanaris# and grab the book he slips you under the door.", x = 65, y = 62, zone = "Searing Gorge" },
 			[6] = { str = "6. Run down to 71,72 and kill #NPCMargol the Rager#, and grab Margol's Horn off him which starts #ACCEPTThe Horn of the Beast# This gives you the searing gorge key, useless now that there is a FP here but good XP", x = 71, y = 72, zone = "Searing Gorge" },
 			[7] = { str = "7. Run over to 39,38 and accept #ACCEPTDivine Retribution# then talk to him until completed, accept #ACCEPTThe Flawless Flame#", x = 39, y = 38, zone = "Searing Gorge" },
