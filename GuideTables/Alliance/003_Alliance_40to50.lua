@@ -196,7 +196,7 @@ Table_003_Alliance_40to50 = {
 			[6] = { str = "6. С левой стороны города на холме возьмите задание  #ACCEPT“Gadgetzan Water Survey”#" },
 			[7] = { str = "7. Идите на север в соседнюю локацию The Shimmering Flats в точку 77,77 и сдайте задание  #TURNIN“Rumors for Kravel”#  и возьмите следующее  #ACCEPT“Back to Booty Bay”#", x = 77, y = 77, zone = "Thousand Needles" },
 			[8] = { str = "8. Тут рядом сдайте задание  #TURNIN“News for Fizzle”#" },
-			[9] = { str = "9. Идите в точку 80,75 и возьмите задание  #ACCEPT“Keeping Pace”#  для этого поговорите с zamek который находится к югу отсюда. У него над головой синий знак #PICTURE?# не идите за ним идите к дому rizzles в точке 77,77 когда он уйдет троньте чертежи и сдайте задание  #TURNIN“Keeping Pace”#  и возьмите следующее  #ACCEPT“Rizzle's Schematics”# и сдайте его в точке 80,75", x = 80, y = 75, zone = "Thousand Needles" },
+			[9] = { str = "9. Идите в точку 80,75 и возьмите задание #ACCEPT“Keeping Pace”#. (Далее нужно активировать скрипт) южнее под навесом должен стоять НПС zamek у него над головой длжен быть синий знак #PICTURE?# не идите за ним идите к дому rizzles в точке 77,77 когда он уйдет троньте чертежи и сдайте задание #TURNIN“Keeping Pace”# и возьмите следующее #ACCEPT“Rizzle's Schematics”# и сдайте его в точке 80,75 (на сервере кронос 5 это задание не работает в 2026 году)", x = 80, y = 75, zone = "Thousand Needles" },
 			[10] = { str = "10. Жмите Hearth в Gadgetzan" },
 			[11] = { str = "11. Идите в Steamwheedle Port в точку 59,80", x = 59, y = 80, zone = "Tanaris" },
 			[12] = { str = "12. Сдайте задание  #TURNIN“Stoley's Debt”#  в южном доме и возьмите задание  #ACCEPT“Stoley’s Shipment”#  и  #ACCEPT“Southsea Shakedown”#" },
