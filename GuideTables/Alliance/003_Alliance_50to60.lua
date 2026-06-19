@@ -99,7 +99,7 @@ Table_003_Alliance_50to60 = {
 			[68] = { str = "68. На входе в Gadgetzanсдайте задание #TURNINLedger From Tanaris#" },
 			[69] = { str = "69. Достаньте свои перчатки 52 уровня и отправьте их по почте что бы получить их позже" },
 			[70] = { str = "70. Между двумя северными воротами возьмите задание #ACCEPTSuper Sticky#" },
-			[71] = { str = "71. Иидте к хижине на западе и сдайте #TURNINMarch of the Silithid#, возьмите #ACCEPTBungle in the Jungle#" },
+			[71] = { str = "71. Идте к хижине на западе и сдайте #TURNINMarch of the Silithid#, возьмите #ACCEPTBungle in the Jungle#" },
 			[72] = { str = "72. Спуститесь в кратер Un’Goro в точке 26,52", x = 26, y = 52, zone = "Tanaris" },
 		}
 	},
