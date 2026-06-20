@@ -248,7 +248,7 @@ Table_003_Alliance_40to50 = {
 			[13] = { str = "13. Специально умрите что бы оказаться в Feathermoon" },
 			[14] = { str = "14. Идите к большому зданию в Feathermoon и сдайте задание  #TURNIN“Against Lord Shalzaru”#  бериет следующее  #ACCEPT“Delivering the Relic”#  сдайте его в этом же здании." },
 			[15] = { str = "15. Не топопитесь почените шмот, продайте мусор затем идите на корабль и плывите на материк." },
-			[16] = { str = "16. Идите на юг от пристани и убивайте screechers для задания  #DOQUEST“Screecher Spirits”# после убийства на него нужно заюзать из сумки предмет Yeh'kinya's Bramble" },
+			[16] = { str = "16. Идите на юг от пристани и убивайте screechers для задания  #DOQUEST“Screecher Spirits”#, после убийства на него нужно заюзать из сумки предмет Yeh'kinya's Bramble" },
 			[17] = { str = "17. Спуститесь в точку 45,65 коснитесь разбитой лодки что бы сдать задание  #TURNIN“The Missing Courier pt.2”#  берите следующее  #ACCEPT“Boat Wreckage”#", x = 45, y = 65, zone = "Feralas" },
 			[18] = { str = "18. Жмите Hearth в Feathermoon" },
 			[19] = { str = "19. Зайдите в небольшое здание напротив гостиницы поднимитесь на второй этаж сдайте задание  #TURNIN“Boat Wreckage”#  и возьмите следующее  #ACCEPT“The Knife Revealed”#" },
