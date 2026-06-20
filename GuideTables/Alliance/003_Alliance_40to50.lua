@@ -242,7 +242,7 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "7. Идите к беседке в точку 26,52 и сдайте задание  #TURNIN“The Ruins of Solarsal”#  и возьмите  #ACCEPT“Return to Feathermoon Stronghold”#", x = 26, y = 52, zone = "Feralas" },
 			[8] = { str = "8. Вернитесь к Feathermoon к большому зданию и сдайте задание  #TURNIN“Return to Feathermoon Stronghold”#  возьмите следующее  #ACCEPT“Against the Hatecrest pt.1”#  сдайте его рядом и возьмите следующее  #ACCEPT“Against the Hatecrest pt.2”#" },
 			[9] = { str = "9. Убивайте наг в точке 26,54 для задания  #DOQUEST“Against the Hatecrest pt.2”#", x = 26, y = 54, zone = "Feralas" },
-			[10] = { str = "10. Я убиваю наг пока до получения нового уровня не останется около 2500 опыта. Обычьно до начала гринда в этом моменте до нового уровня остается около 15000 опыта. За каждое убийство дают в среднем по 250 опыта." },
+			[10] = { str = "10. Я убиваю наг пока до следующего уровня не останется около 2500 опыта. Обычьно до начала гринда в этом моменте до нового уровня остается около 15000 опыта. За каждое убийство дают в среднем по 250 опыта." },
 			[11] = { str = "11. Вернитесь в Feathermoon к большому зданию и сдайте задание  #TURNIN“Against the Hatecrest pt.2”#  берите следующее  #ACCEPT“Against Lord Shalzaru”#" },
 			[12] = { str = "12. Спуститесь в пещеру в точке 26,66 и убейте  #NPCLord Shalzaru#  для задания  #DOQUEST“Against Lord Shalzaru”#", x = 26, y = 66, zone = "Feralas" },
 			[13] = { str = "13. Специально умрите что бы оказаться в Feathermoon" },
