@@ -213,7 +213,7 @@ Table_003_Alliance_40to50 = {
 			[23] = { str = "23. Вы должны быть близки к 50% опыта до следующего уровня." },
 			[24] = { str = "24. Идите на запад по координатам 39,29 и выполните задание  #DOQUEST“Gadgetzan Water Survey”#  сразу после сбора оброзца на вас нападут мобы 47 и 48 уровня, Бегите.", x = 32, y = 29, zone = "Tanaris" },
 			[25] = { str = "24. Вернить назад в Gadgetzan и сдай задание  #TURNIN“Gadgetzan Water Survey”#  и возьмите  #ACCEPT“Noxious Lair Investigation”#" },
-			[26] = { str = "26. Идите выполнять задание  #DOQUEST“More Wastewander Justice”#  в точке 60,35 убивайте толпу.", x = 60, y = 35, zone = "Tanaris" },
+			[26] = { str = "26. Выполните задание  #DOQUEST“More Wastewander Justice”#  в точке 60,35", x = 60, y = 35, zone = "Tanaris" },
 			[27] = { str = "27. Вернитесь в порт Steamweedle Port в точку 59,80 к южному дому и сдайте задание  #TURNIN“Stoley’s Shipment”#  берите следующее  #ACCEPT“Deliver to MacKinley”#", x = 59, y = 80, zone = "Tanaris" },
 			[28] = { str = "28. Сдайте  #TURNIN“WANTED: Andre Firebeard”#  и  #TURNIN“Southsea Shakedown”#" },
 			[29] = { str = "29. Идите к соседнему дому и сдайте  #TURNIN“Pirate Hats Ahoy!”#" },
