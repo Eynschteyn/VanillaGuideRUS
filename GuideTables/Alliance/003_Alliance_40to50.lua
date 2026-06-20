@@ -260,7 +260,7 @@ Table_003_Alliance_40to50 = {
 			[25] = { str = "25. Гриндите в восточной части убивая the Brutes в точке 60,56, warlocks и shamans в точке 59,66 для задния  #DOQUEST“The High Wilderness”#. Я убиваю всех кто попадется на глаза.", x = 60, y = 56, zone = "Feralas" },
 			[26] = { str = "26. Идите в точку 65,45 и возьмите задание  #ACCEPT“Freedom For All Creatures”#.  Дорогу легко не заметить к северо-западу от лагеря есть тропа. Проведите НПС к клетке и откройте ее убивая всех вокруг пока не появится надпись о выполнении задания.", x = 65, y = 45, zone = "Feralas" },
 			[27] = { str = "27. Сдайте задание и возьми  #ACCEPT“Doling Justice pt.1”# противники находятся в этом же лагере." },
-			[28] = { str = "27. Сдайте задание  #TURNIN“Doling Justice pt.1”#  в точке 65,45 и возьмите следующее  #ACCEPT“Doling Justice pt.2”#", x = 65, y = 45, zone = "Feralas" },
+			[28] = { str = "28. Сдайте задание  #TURNIN“Doling Justice pt.1”#  в точке 65,45 и возьмите следующее  #ACCEPT“Doling Justice pt.2”#", x = 65, y = 45, zone = "Feralas" },
 			[29] = { str = "29. Спуститесь в точку 73,56 и кослитесь больших кожанных рюкзаков в огромном дереве сдайте задание  #TURNIN“The Woodpaw Gnolls”#  и возьмите задание  #ACCEPT“The Writhing Deep”#", x = 73, y = 56, zone = "Feralas" },
 			[30] = { str = "30. Нажмите правой кнопкой на рюкзак и возьмите задание  #ACCEPT“Thalanaar Delivery”#" },
 			[31] = { str = "31. Спускайтесь к улию в точку 73,63 и идите до самого низа. Войдите в южный тунель и держитесь правой стороны там увидите кокон Zukk’Ash Pod Сдайте задание  #TURNIN“The Writhing Deep”#  и возьмите задание  #ACCEPT“Freed From the Hive”#", x = 73, y = 63, zone = "Feralas" },
