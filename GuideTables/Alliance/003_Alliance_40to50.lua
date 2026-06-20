@@ -247,7 +247,7 @@ Table_003_Alliance_40to50 = {
 			[12] = { str = "12. Спуститесь в пещеру в точке 26,66 и убейте  #NPCLord Shalzaru#  для задания  #DOQUEST“Against Lord Shalzaru”#", x = 26, y = 66, zone = "Feralas" },
 			[13] = { str = "13. Специально умрите что бы оказаться в Feathermoon" },
 			[14] = { str = "14. Идите к большому зданию в Feathermoon и сдайте задание  #TURNIN“Against Lord Shalzaru”#  бериет следующее  #ACCEPT“Delivering the Relic”#  сдайте его в этом же здании." },
-			[15] = { str = "15. Идите на корабль и плывите на материк." },
+			[15] = { str = "15. Не топопитесь почените шмот, продайте мусор затем идите на корабль и плывите на материк." },
 			[16] = { str = "16. Идите на юг от пристани и убивайте screechers для задания  #DOQUEST“Screecher Spirits”#" },
 			[17] = { str = "17. Спуститесь в точку 45,65 коснитесь разбитой лодки что бы сдать задание  #TURNIN“The Missing Courier pt.2”#  берите следующее  #ACCEPT“Boat Wreckage”#", x = 45, y = 65, zone = "Feralas" },
 			[18] = { str = "18. Жмите Hearth в Feathermoon" },
