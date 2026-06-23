@@ -13,6 +13,8 @@ Description: Guide Serie - 002 Tirisfal Glades
     1.05.0
     	-- Major Change
     		Clean up and organzation done to 6-10 leveling gyide and 10-12 leveling, add heart usage, leveing paths are still the same but WIP
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
