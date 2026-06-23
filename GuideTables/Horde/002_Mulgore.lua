@@ -39,7 +39,7 @@ Table_002_Mulgore = {
 			[12] = { str = "12. Поговорите с Brave Windfeather и сдайте задание #TURNIN\"Break Sharptusk!\"#." },
 			[13] = { str = "13. Идите в точку 38,81 и поговорите с Antur Fallow и возьмите задание #ACCEPT\"A Task Unfinished\"# затем продолжайте идти по дороге к деревне Bloodhoof Village.", x = 38, y = 81, zone = "Mulgore" },
 			[14] = { str = "14. Поговорите с хозяином таверны и сдайте задание #TURNIN\"A Task Unfinished\"#" },
-			[15] = { str = "15.	Сделайте Bloodhoof Village своим домом" },
+			[15] = { str = "15. Сделайте Bloodhoof Village своим домом" },
 			[16] = { str = "16. Сейчас у вас должен быть 6 уровень, если нет прокачайте его на мобах" },
 			--[16] = { str = "." },
 			--[17] = { str = "." },
