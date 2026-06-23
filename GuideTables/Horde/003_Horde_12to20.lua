@@ -12,6 +12,8 @@ Description: Guide Serie - 003 From Lvl 12 to Lvl 20
     	-- no changes in here for this revision
     1.05.0
     	-- Reverting early change due to bug being server side. Steps 8-12 in 12-15 Barrens. This is the correct quest chain patch 1.12.1 and 2.4.3
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
