@@ -10,6 +10,8 @@ Description: Guide Serie - 001 Introduction
             from level 1 to lever 12
     1.04.2
     	-- no changes in here for this revision
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
