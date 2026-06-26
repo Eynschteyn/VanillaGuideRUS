@@ -282,7 +282,7 @@ Table_003_Horde_40to50 = {
 			[45] = { str = "43) fly to Thunder Bluff" },
 			[46] = { str = "44) turn in #TURNIN\"Deadmire\"# " },
 			[47] = { str = "45) get new spells/abilites." },
-			[48] = { str = "46) Fly to XRs, then to Splintertree Post (Ashenvale)" },
+			[48] = { str = "46) Fly to Crossroads, then to Splintertree Post (Ashenvale)" },
 			[49] = { str = "47) Then go east into Azshara..." },
 			--[50] = { str = "." },
 			--[51] = { str = "." },
