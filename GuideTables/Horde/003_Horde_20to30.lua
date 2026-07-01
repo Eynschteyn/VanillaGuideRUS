@@ -10,6 +10,8 @@ Description: Guide Serie - 003 From Lvl 20 to Lvl 30
             from level 20 to lever 30
     1.04.2
     	-- no changes in here for this revision
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
@@ -23,24 +25,24 @@ Table_003_Horde_20to30 = {
 		--pID = 104, nID = 202, 
 		--itemCount = 20,
 		items = {
-			[1] = { str = "20-21 Stonetalon Mountains" },
-			[2] = { str = "01) Run to Malaka'Jin (at 71.94)", x = 71, y = 94, zone = "Stonetalon Mountains" },
-			[3] = { str = "02) Accept #ACCEPT\"Blood Feeders\"# " },
-			[4] = { str = "03) Turn in #TURNIN\"Letter to Jin'Zil\"# (74.97 in the cave) ... accept #ACCEPT\"Jin'Zil's Forest Magic\"# ", x = 74, y = 97, zone = "Stonetalon Mountains" },
-			[5] = { str = "04) Then go accept #ACCEPT\"Arachnophobia\"# (wanted poster is at 59.75)", x = 59, y = 75, zone = "Stonetalon Mountains" },
-			[6] = { str = "05) Go do: #DOQUEST\"Blood Feeders\"# along with #DOQUEST\"Deepmoss Spider Eggs\"# and #DOQUEST\"Arachnophobia\"# (around 54.76) NOTE: you can skip Arachnophobia for now, you'll return here later...", x = 54, y = 76, zone = "Stonetalon Mountains" },
-			[7] = { str = "06) Then turn in #TURNIN\"Ziz Fizziks\"# (the goblin in the hut at Windshear Crag, 58.62) ... accept #ACCEPT\"Super Reaper 6000\"# ", x = 58, y = 62, zone = "Stonetalon Mountains" },
-			[8] = { str = "07) Then do: #DOQUEST\"Goblin Invaders\"# and #DOQUEST\"Super Reaper 6000\"# (the mobs are just north in Windshear Crag)" },
-			[9] = { str = "08) Then turn in #TURNIN\"Super Reaper 6000\"# (58.62) ... accept #ACCEPT\"Further Instructions\"# ", x = 58, y = 62, zone = "Stonetalon Mountains" },
-			[10] = { str = "09) Run to Sun Rock Retreat at 46.59.", x = 46, y = 59, zone = "Stonetalon Mountains" },
-			[11] = { str = "10) Turn in #TURNIN\"Arachnophobia\"# and #TURNIN\"Kaya's Alive\"# if you did the escort quest" },
-			[12] = { str = "11) Get FP there." },
-			[13] = { str = "12) Run up the little #VIDEOpathway# and accept #ACCEPT\"Boulderslide Ravine\"# and #ACCEPT\"Trouble in the Deeps\"# (at 47.64)", x = 47, y = 64, zone = "Stonetalon Mountains" },
-			[14] = { str = "13) Then go do #DOQUEST\"Boulderslide Ravine\"# (at 61.92)", x = 61, y = 92, zone = "Stonetalon Mountains" },
-			[15] = { str = "14) Then turn in #TURNIN\"Blood Feeders\"# (71.95)", x = 71, y = 95, zone = "Stonetalon Mountains" },
-			[16] = { str = "15) Turn in #TURNIN\"Goblin Invaders\"# (at 35.27 in the Barrens) ... accept #ACCEPT\"Shredding Machines\"#   (I SKIP \"#NPCThe Elder Crone\"# )", x = 35, y = 27, zone = "The Barrens" },
-			[17] = { str = "16) Hearth to Crossroads." },
-			[18] = { str = "17) Run north to Ashenvale (stopping along the way to turn in #TURNIN\"Report to Kadrak\"# (at 48.5) but SKIP \"#NPCThe Warsong Reports\"# ", x = 48, y = 5, zone = "The Barrens" },
+			[1] = { str = "1. 20-21 Stonetalon Mountains" },
+			[2] = { str = "2. Бегите к Malaka'Jin в точку 71,94", x = 71, y = 94, zone = "Stonetalon Mountains" },
+			[3] = { str = "3. Возьмите задание #ACCEPT\"Blood Feeders\"#" },
+			[4] = { str = "4. Сдайте заадние #TURNIN\"Letter to Jin'Zil\"# в точке 74,97 в пещере далее берите заадние #ACCEPT\"Jin'Zil's Forest Magic\"# ", x = 74, y = 97, zone = "Stonetalon Mountains" },
+			[5] = { str = "5. Возьмите заадние #ACCEPT\"Arachnophobia\"# (на столбе в точке 59,75)", x = 59, y = 75, zone = "Stonetalon Mountains" },
+			[6] = { str = "6. Выполните задания: #DOQUEST\"Blood Feeders\"#, #DOQUEST\"Deepmoss Spider Eggs\"# и #DOQUEST\"Arachnophobia\"# в точке 54,76. ПРИМЕЧАНИЕ: заадние Arachnophobia пока можно пропустить вы вернетесь сюда позже", x = 54, y = 76, zone = "Stonetalon Mountains" },
+			[7] = { str = "7. Идите и сдайте задание #TURNIN\"Ziz Fizziks\"# (гоблину в хижине 58,62), берите задание #ACCEPT\"Super Reaper 6000\"#", x = 58, y = 62, zone = "Stonetalon Mountains" },
+			[8] = { str = "8. Выполните задания: #DOQUEST\"Goblin Invaders\"# и #DOQUEST\"Super Reaper 6000\"# (мобы находятся севернее в локации Windshear Crag)" },
+			[9] = { str = "9. Сдайте задание #TURNIN\"Super Reaper 6000\"# в точке 58,62 и возьмите заадние #ACCEPT\"Further Instructions\"#", x = 58, y = 62, zone = "Stonetalon Mountains" },
+			[10] = { str = "10. Бегите к Sun Rock Retreat в точку 46,59", x = 46, y = 59, zone = "Stonetalon Mountains" },
+			[11] = { str = "11. Сдайте задания #TURNIN\"Arachnophobia\"# и #TURNIN\"Kaya's Alive\"# если вы выполниил задание на сопровождение" },
+			[12] = { str = "12. Откройте полетчика" },
+			[13] = { str = "13. Поднимитесь по не большой трапинке #VIDEOpathway# и возьмите заадние #ACCEPT\"Boulderslide Ravine\"# и #ACCEPT\"Trouble in the Deeps\"# в точке 47,64", x = 47, y = 64, zone = "Stonetalon Mountains" },
+			[14] = { str = "14. Выполни задание #DOQUEST\"Boulderslide Ravine\"# в точке 61,92", x = 61, y = 92, zone = "Stonetalon Mountains" },
+			[15] = { str = "15. Сдайте задание #TURNIN\"Blood Feeders\"# в точке 71,95", x = 71, y = 95, zone = "Stonetalon Mountains" },
+			[16] = { str = "16. Сдайте задание #TURNIN\"Goblin Invaders\"# в точке 35,27 в Barrens и возьмите задание #ACCEPT\"Shredding Machines\"# (я ПРОПУСКАЮ заадние \"#NPCThe Elder Crone\"#", x = 35, y = 27, zone = "The Barrens" },
+			[17] = { str = "17. Жмите Hearth в Crossroads." },
+			[18] = { str = "18. Бегите на север в Ashenvale (по пути сдайте задание #TURNIN\"Report to Kadrak\"# в точке 48,5, ПРОПУСТИТЕ заадние \"#NPCThe Warsong Reports\"#", x = 48, y = 5, zone = "The Barrens" },
 			--[19] = { str = "." },
 			--[20] = { str = "." },
 		}
