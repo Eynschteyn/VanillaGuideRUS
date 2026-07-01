@@ -34,7 +34,7 @@ Table_002_TirisfalGlades = {
 			[4] = { str = "4. Возьмите задание #ACCEPT\"The Mindless Ones\"# и классовое задание (у чернокнижника задание #ACCEPT\"Piercing the Veil\"#.)" },
 			[5] = { str = "5. Выйдите из здания и идите на лево и в низ по склону и выполните задания #DOQUEST\"The Mindless Ones\"# и #DOQUEST\"Piercing the Veil\"#, затем вернитесь и сдайте их" },
 			[6] = { str = "6. Возьмите задания #ACCEPT\"Rattling the Rattlecages\"#, #ACCEPT\"Tainted Scroll\", и #ACCEPT\"The Damned\"#" },
-			[7] = { str = "7. Сдайте #TURNIN\"Tainted Scroll\"# своему классовому тренеру и выучите новые способности (если нет бенег продайте хлам торговцу через дорогу)" },
+			[7] = { str = "7. Сдайте #TURNIN\"Tainted Scroll\"# своему классовому тренеру и выучите новые способности (если нет денег продайте хлам торговцу через дорогу)" },
 			[8] = { str = "8. Выполните задания #DOQUEST\"The Damned\"# и #DOQUEST\"Rattling the Rattlecages\"# ящики можно найти около домиков когда найдете все сдайте задание и возьмите следующее #ACCEPT\"Marla's Last Wish\"#." },
 			[9] = { str = "9. Выйдите из часовни и возьмите задания #ACCEPT\"Night Web's Hollow\"# и #ACCEPT\"Scavenging Deathknell\"#." },
 			[10] = { str = "10. Выполните задание #DOQUEST\"Scavenging Deathknell\"# все что нужно находится внутри зданий и снаружи, затем идите в точку 36, 62 и бейте Samuel Fipps для задания #DOQUEST\"Marla's Last Wish\"#.", x = 36, y = 62, zone = "Tirisfal Glades" },
