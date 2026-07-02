@@ -23,7 +23,7 @@ Table_003_Horde_20to30 = {
 		title = "20-21 Stonetalon Mountains",
 		--n = "20-21 Stonetalon Mountains",
 		--pID = 104, nID = 202, 
-		--itemCount = 20,
+		--itemCount = 18,
 		items = {
 			[1] = { str = "1. 20-21 Stonetalon Mountains" },
 			[2] = { str = "2. Бегите к Malaka'Jin в точку 71,94", x = 71, y = 94, zone = "Stonetalon Mountains" },
@@ -43,8 +43,6 @@ Table_003_Horde_20to30 = {
 			[16] = { str = "16. Сдайте задание #TURNIN\"Goblin Invaders\"# в точке 35,27 в Barrens и возьмите задание #ACCEPT\"Shredding Machines\"# (я ПРОПУСКАЮ заадние \"#NPCThe Elder Crone\"#", x = 35, y = 27, zone = "The Barrens" },
 			[17] = { str = "17. Жмите Hearth в Crossroads." },
 			[18] = { str = "18. Бегите на север в Ashenvale (по пути сдайте задание #TURNIN\"Report to Kadrak\"# в точке 48,5, ПРОПУСТИТЕ заадние \"#NPCThe Warsong Reports\"#", x = 48, y = 5, zone = "The Barrens" },
-			--[19] = { str = "." },
-			--[20] = { str = "." },
 		}
 	},
 
@@ -54,7 +52,7 @@ Table_003_Horde_20to30 = {
 		title = "21-21 Ashenvale",
 		--n = "21-21 Ashenvale",
 		--pID = 201, nID = 203,
-		--itemCount = 11,
+		--itemCount = 9,
 		items = {
 			[1] = { str = "1. 21-21 Ashenvale" },
 			[2] = { str = "2. Бегите к Splintertree Post в точке 73,65", x = 73, y = 65, zone = "Ashenvale" },
@@ -65,8 +63,6 @@ Table_003_Horde_20to30 = {
 			[7] = { str = "7. Выполните следующие заадния:" },
 			[8] = { str = "8. Возьмите и выполните задание #DOQUEST\"Naga at the Zoram Strand\"#, а затем сдайте его" },
 			[9] = { str = "9. Жмите Hearth назад в Crossroads, если камень на кд летите туда" },
-			--[10] = { str = "." },
-			--[11] = { str = "." },
 		}
 	},
 
@@ -76,7 +72,7 @@ Table_003_Horde_20to30 = {
 		title = "22-23 Southern Barrens",
 		--n = "22-23 Southern Barrens",
 		--pID = 202, nID = 204,
-		--itemCount = 19,
+		--itemCount = 17,
 		items = {
 			[1] = { str = "1. 22-23 Southern Barrens" },
 			[2] = { str = "2. Летите в Camp Taurajo." },
@@ -95,8 +91,6 @@ Table_003_Horde_20to30 = {
 			[15] = { str = "15. Сдайте задание #TURNIN\"Further Instructions\"# (в точке 63,37 Ratchet), возьмите задание #ACCEPT\"Further Instructions\"# часть 2", x = 63, y = 37, zone = "The Barrens" },
 			[16] = { str = "16. Сдайте задания #TURNIN\"Deepmoss Spider Eggs\"# и #TURNIN\"Chen's Empty Keg\"#" },
 			[17] = { str = "17. Летите Fly в Stonetalon Mountains" },
-			--[18] = { str = "." },
-			--[19] = { str = "." },
 		}
 	},
 
@@ -106,7 +100,7 @@ Table_003_Horde_20to30 = {
 		title = "23-25 Stonetalon Mountains",
 		--n = "23-25 Stonetalon Mountains",
 		--pID = 203, nID = 205,
-		--itemCount = 24,
+		--itemCount = 22,
 		items = {
 			[1] = { str = "1. 23-25 Stonetalon Mountains" },
 			[2] = { str = "2. Берите все задания в Sun Rock Retreat (включая: #ACCEPT\"Cenarius' Legacy\"#, #ACCEPT\"Cycle of Rebirth\"# и #ACCEPT\"Harpies Threaten\"#)" },
@@ -130,8 +124,6 @@ Table_003_Horde_20to30 = {
 			[20] = { str = "20. Когда все сдадите у вас должно быть около 5 клеток опыта до 25 уровня, возможно прийдется немного погриндить мобов" },
 			[21] = { str = "21. Иди и сдай все задания и возьми задание #ACCEPT\"Calling in the Reserves\"#" },
 			[22] = { str = "22. Летите в (CT) Camp Taurajo." },
-			--[23] = { str = "." },
-			--[24] = { str = "." },
 		}
 	},
 
@@ -141,7 +133,7 @@ Table_003_Horde_20to30 = {
 		title = "25-25 Southern Barrens",
 		--n = "25-25 Southern Barrens",
 		--pID = 204, nID = 206,
-		--itemCount = 14,
+		--itemCount = 12,
 		items = {
 			[1] = { str = "1. 25-25 Southern Barrens" },
 			[2] = { str = "2. Сдайте задание #TURNIN\"Ishamuhale\"# и возьмите #ACCEPT\"Enraged Thunder Lizards\"#" },
@@ -155,8 +147,6 @@ Table_003_Horde_20to30 = {
 			[10] = { str = "10. Направляйтесь на юг по тропе в Great Lift по координатам 44,91 в barrens'e и сдайте задание #TURNIN\"Calling in the Reserves\"#", x = 44, y = 91, zone = "The Barrens" },
 			[11] = { str = "11. Возьмите задание #ACCEPT\"Message to Freewind Post\"#" },
 			[12] = { str = "12. Бегите в Freewind Post в точке 45,50 в Thousand Needles", x = 45, y = 50, zone = "Thousand Needles" },
-			--[13] = { str = "." },
-			--[14] = { str = "." },
 		}
 	},
 
@@ -166,31 +156,29 @@ Table_003_Horde_20to30 = {
 		title = "25-26 Thousand Needles",
 		--n = "25-26 Thousand Needles",
 		--pID = 205, nID = 207,
-		--itemCount = 23,
+		--itemCount = 21,
 		items = {
-			[1] = { str = "25-26 Thousand Needles" },
-			[2] = { str = "01) Turn in #TURNIN\"Message to Freewind Post\"# accept #ACCEPT\"Pacify the Centaur\"# " },
-			[3] = { str = "02) Accept #ACCEPT\"Wanted - Arnak Grimtotem\"# #ACCEPT\"Alien Egg\"# and #ACCEPT\"Wind Rider\"# " },
-			[4] = { str = "03) Get FP there." },
-			[5] = { str = "04) Go do (in the following order):" },
-			[6] = { str = "05) #DOQUEST\"Pacify the Centaur\"# (mobs are just north)" },
-			[7] = { str = "06) #DOQUEST\"Test of Faith\"# (the cave at 52.43)", x = 52, y = 43, zone = "Thousand Needles" },
-			[8] = { str = "07) #DOQUEST\"A New Ore Sample\"#   (if you can't find the drop, just skip it for now)" },
-			[9] = { str = "08) #DOQUEST\"Alien Egg\"# (this egg has 4 possible spawn points, either at around: 52.56 / 45.63 / 41.60 / 50.56, and there might be more, just check around those areas.)", x = 52, y = 56, zone = "Thousand Needles" },
-			[10] = { str = "09) If you're not level 26 (or two bars away from it), grind till you are." },
-			[11] = { str = "10) Go up to Freewind Post (45.50)..", x = 45, y = 50, zone = "Thousand Needles" },
-			[12] = { str = "11) Turn in #TURNIN\"Pacify the Centaur\"# ... accept #ACCEPT\"Grimtotem Spying\"# " },
-			[13] = { str = "12) Turn in #TURNIN\"Alien Egg\"# ... accept #ACCEPT\"Serpent Wild\"# " },
-			[14] = { str = "13) Hearth to Camp Taurajo." },
-			[15] = { str = "14) Turn in #TURNIN\"Enraged Thunder Lizards\"# and #TURNIN\"Washte Pawne\"# ... accept #ACCEPT\"Cry of the Thunderhawk\"# " },
-			[16] = { str = "15) Turn in #TURNIN\"A New Ore Sample\"# " },
-			[17] = { str = "16) Go do #DOQUEST\"Cry of the Thunderhawk\"# then turn it in ... I SKIP \"#NPCMahren Skyseer\"# " },
-			[18] = { str = "17) Fly to Thunder Bluff to get new spells/abilities." },
-			[19] = { str = "18) Turn in #TURNIN\"Melor Sends Word\"# (61.80 on the Hunter Rise)... accept #ACCEPT\"Steelsnap\"# ", x = 61, y = 80, zone = "Thunder Bluff" },
-			[20] = { str = "19) Accept #ACCEPT\"The sacred Flame\"# (55.51)", x = 55, y = 51, zone = "Thunder Bluff" },
-			[21] = { str = "20) Fly to Splintertree Post, Ashenvale..." },
-			--[22] = { str = "." },
-			--[23] = { str = "." },
+			[1] = { str = "1. 25-26 Thousand Needles" },
+			[2] = { str = "2. Сдайте задание #TURNIN\"Message to Freewind Post\"# и возьмите #ACCEPT\"Pacify the Centaur\"#" },
+			[3] = { str = "3. Возьмите задания #ACCEPT\"Wanted - Arnak Grimtotem\"#, #ACCEPT\"Alien Egg\"# и #ACCEPT\"Wind Rider\"#" },
+			[4] = { str = "4. Откройте полетчика сдесь" },
+			[5] = { str = "5. Выполните следующие действия (в указанном порядке):" },
+			[6] = { str = "6. Выполните задание #DOQUEST\"Pacify the Centaur\"# (мобы чуть севернее)" },
+			[7] = { str = "7. Выполните задание #DOQUEST\"Test of Faith\"# (пещера в точке 52,43)", x = 52, y = 43, zone = "Thousand Needles" },
+			[8] = { str = "8. Выполните задание #DOQUEST\"A New Ore Sample\"# (если вы не можете найти выповший предмет, просто пропустите его пока)" },
+			[9] = { str = "9. Выполните задание #DOQUEST\"Alien Egg\"# (у этого яйца есть 4 точки спавна, примерно: 52.56 / 45.63 / 41.60 / 50.56, осмотрите эти точки)", x = 52, y = 56, zone = "Thousand Needles" },
+			[10] = { str = "10. Если вы еще не получили 26 уровень гриндите мобов пока не достигните его" },
+			[11] = { str = "11. Идите в Freewind Post в точку 45,50", x = 45, y = 50, zone = "Thousand Needles" },
+			[12] = { str = "12. Сдайте задание #TURNIN\"Pacify the Centaur\"# и возьмите задание #ACCEPT\"Grimtotem Spying\"#" },
+			[13] = { str = "13. Сдайте задание #TURNIN\"Alien Egg\"# и возьмите следующее #ACCEPT\"Serpent Wild\"#" },
+			[14] = { str = "14. Жмите Hearth в Camp Taurajo" },
+			[15] = { str = "15. Сдайте задания #TURNIN\"Enraged Thunder Lizards\"# и #TURNIN\"Washte Pawne\"# заем возьмите задание #ACCEPT\"Cry of the Thunderhawk\"#" },
+			[16] = { str = "16. Сдайте задание #TURNIN\"A New Ore Sample\"#" },
+			[17] = { str = "17. Выполните заание #DOQUEST\"Cry of the Thunderhawk\"#, а затем сдайте его. Я ПРОПУСКАЮ диалог \"#NPCMahren Skyseer\"#" },
+			[18] = { str = "18. Летите в Thunder Bluff и выучите способности у своего классового тренера" },
+			[19] = { str = "19. Сдайте задание #TURNIN\"Melor Sends Word\"# в точке 61,80 на Hunter Rise и возьмите задание #ACCEPT\"Steelsnap\"#", x = 61, y = 80, zone = "Thunder Bluff" },
+			[20] = { str = "20. Возьмите заадние #ACCEPT\"The sacred Flame\"# в точке 55,51", x = 55, y = 51, zone = "Thunder Bluff" },
+			[21] = { str = "21. Летите в Splintertree Post, Ashenvale" },
 		}
 	},
 
@@ -224,8 +212,6 @@ Table_003_Horde_20to30 = {
 			[20] = { str = "19) Go do: #DOQUEST\"Satyr Horns\"# (done at the Night Run, 67.53)  (entrance to the area is around 64.42).", x = 67, y = 53, zone = "Ashenvale" },
 			[21] = { str = "20) Run back to Splintertree Post (don't hearth).  Turn in #TURNIN\"Satyr Horns\"#" },
 			[22] = { str = "21) Fly to Stonetalon Mountains..." },
-			--[23] = { str = "." },
-			--[24] = { str = "." },
 		}
 	},
 
@@ -246,8 +232,6 @@ Table_003_Horde_20to30 = {
 			[7] = { str = "06) Make Thunder Bluff your home." },
 			[8] = { str = "07) Turn in #TURNIN\"The sacred Flame\"# (54.51 in TB)... accept #ACCEPT\"The sacred Flame\"# part2", x = 54, y = 51, zone = "Thunder Bluff" },
 			[9] = { str = "08) Fly to Thousand Needles..." },
-			--[10] = { str = "." },
-			--[11] = { str = "." },
 		}
 	},
 
@@ -292,8 +276,6 @@ Table_003_Horde_20to30 = {
 			[31] = { str = "30) Get new spells/abilities." },
 			[32] = { str = "31) Go to Undercity (UC).  You need to get on the zeppelin just right outside of Orgrimmar." },
 			[33] = { str = "32) Run to Tarren Mill in Hillsbrad Foothills.. (You can just bypass the UC for now if you like and just follow the path south out of Tirisfal Glades and into Silverpine Forest)" },
-			--[36] = { str = "." },
-			--[37] = { str = "." },
 		}
 	},
 
@@ -322,8 +304,6 @@ Table_003_Horde_20to30 = {
 			[15] = { str = "14) charge The Flame of Azel and the Flame of Veraz,  for the quest #DOQUEST\"Helcular's Revenge\"# " },
 			[16] = { str = "15) I keep grinding away at Yetis until my pet levels up." },
 			[17] = { str = "16) go up into Alterac Mountains..." },
-			--[18] = { str = "." },
-			--[19] = { str = "." },
 		}
 	},
 }
