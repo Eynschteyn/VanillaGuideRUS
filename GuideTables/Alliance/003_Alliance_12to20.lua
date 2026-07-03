@@ -196,7 +196,7 @@ Table_003_Alliance_12to20 = {
 			[26] = { str = "26. Убивайте мурлоков к востоку от моста для задания #DOQUEST\"Murloc Poachers\"#" },
 			[27] = { str = "27. Убивайте гнолов к северу от Lakeshire для задания #DOQUEST\"The Everstill Bridge\"#" },
 			[28] = { str = "28. Сдайте задание #TURNIN\"The Everstill Bridge\"# рядом с мостом" },
-			[29] = { str = "29. Сдайте задание #TURNINMurloc Poachers\"# перед сараем" },
+			[29] = { str = "29. Сдайте задание #TURNIN\"Murloc Poachers\"# перед сараем" },
 			[30] = { str = "30. Жмите Hearth и вернитесь Auberdine. К этому моменту вы точно должны быть 20 уровня, как минимум на полпути к 21 уровню" },
 		}
 	},
