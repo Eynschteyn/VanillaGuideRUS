@@ -10,6 +10,8 @@ Description: Guide Serie - 003 From Lvl 30 to Lvl 40
             from level 30 to lever 40
     1.04.2
     	-- no changes in here for this revision
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
@@ -21,20 +23,18 @@ Table_003_Horde_30to40 = {
 		title = "30-30 Alterac Mountains",
 		--n = "30-30 Alterac Mountains",
 		--pID = 210, nID = 302,
-		--itemCount = 12,
+		--itemCount = 10,
 		items = {
-			[1] = { str = "30-30 Alterac Mountains" },
-			[2] = { str = "01) Do the following:" },
-			[3] = { str = "02) #DOQUEST\"Elixir of Pain\"# (killing the level 32-34 mountain lions, on the plateaus there)" },
-			[4] = { str = "03) Charge the third flame (Flame of Uzel), for the quest #DOQUEST\"Helcular's Revenge\"# " },
-			[5] = { str = "04) Kill \"#NPCFrostmaw#\" Yes I know your gonna be killing Frostmaw (level 37 mob) at level 30, it's a tough battle so prepare yourself! " },
-			[6] = { str = "05) Run down to Southshore, to drive the rod into Helcular's grave. (hint: i use my pet to distract the guards, by having my pet run all over the place). This is for the quest #DOQUEST\"Helcular's Revenge\"# " },
-			[7] = { str = "06) Run back to Tarren Mill" },
-			[8] = { str = "07) Turn in #TURNIN\"Elixir of Pain\"# " },
-			[9] = { str = "08) Accept #ACCEPT\"The Hammer May Fall\"# " },
-			[10] = { str = "09) run into Arathi Highlands..." },
-			--[11] = { str = "." },
-			--[12] = { str = "." },
+			[1] = { str = "1. 30-30 Alterac Mountains" },
+			[2] = { str = "2. Выполните следующие действия:" },
+			[3] = { str = "3. Выполните задание #DOQUEST\"Elixir of Pain\"# (убивайте mountain lions 32-34 уровня, на этих плато)" },
+			[4] = { str = "4. Зарядите третье пламя third flame (Flame of Uzel), для задания #DOQUEST\"Helcular's Revenge\"# " },
+			[5] = { str = "5. Убейте \"#NPCFrostmaw#\" да я знаю что убить Frostmaw 37 уровня будет не просто на 30 уровне так что готовьтесь!" },
+			[6] = { str = "6. Бегите на юг в Southshore, и вонзите жезл в могилу Helcular's. Я использую пета что бы отвлечь стражу. Это задание для квеста #DOQUEST\"Helcular's Revenge\"# " },
+			[7] = { str = "7. Бегите обратно в Tarren Mill" },
+			[8] = { str = "8. Сдайте задание #TURNIN\"Elixir of Pain\"#" },
+			[9] = { str = "9. Возьмите задание #ACCEPT\"The Hammer May Fall\"#" },
+			[10] = { str = "10. Бегите в Arathi Highlands" },
 		}
 	},
 
