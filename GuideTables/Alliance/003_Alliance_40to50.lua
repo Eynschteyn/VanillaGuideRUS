@@ -313,7 +313,7 @@ Table_003_Alliance_40to50 = {
 		--itemCount = 29,
 		items = {
 			[1] = { str = "1. 46-47 The Hinterlands" },
-			[2] = { str = "2. Поднимитесь в точку 11,46 и сдайте задание  #TURNIN“In Search of The Hinterlands”#  возьмите  #TURNIN“Gryphon Master Talonaxe”#", x = 11, y = 46, zone = "The Hinterlands" },
+			[2] = { str = "2. Поднимитесь в точку 11,46 и сдайте задание  #TURNIN“To The Hinterlands”#  возьмите  #TURNIN“Gryphon Master Talonaxe”#", x = 11, y = 46, zone = "The Hinterlands" },
 			[3] = { str = "3. Откройте полетчика в точке 11,46 на самом верху затем зайдите в пещеру и сдайте  #TURNIN“Gryphon Master Talonaxe”#,  возьмите  #ACCEPT“Rhapsody Shindigger”#  и  #ACCEPT“Witherbark Cages”#", x = 11, y = 46, zone = "The Hinterlands" },
 			[4] = { str = "4. Зайдите в гостинницу и поверните на право возьмите 2 задания  #ACCEPT“Skulk Rock Clean-Up”#  и  #ACCEPT“Troll Necklace Bounty”#" },
 			[5] = { str = "5. Пройдите внутрь гостинницы в точку 13,41 и сделайте ее своим домом.", x = 13, y = 41, zone = "The Hinterlands" },
