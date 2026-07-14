@@ -419,7 +419,7 @@ Table_003_Alliance_40to50 = {
 			[32] = { str = "32. Поднимитесь на холм в западной части города и сдайте задание  #TURNIN“The Schrimshank Redemption”#  и возьмите следующее  #ACCEPT“Insect Part Analysis pt.1”#" },
 			[33] = { str = "33. Идите в дом на северо-западной части города и сдайте  #TURNIN“Insect Part Analysis pt.1”#  и возьмите новое  #ACCEPT“Insect Part Analysis pt.2”#" },
 			[34] = { str = "34. Вернитесь на холм и сдайте задание  #TURNIN“Insect Part Analysis pt.2”#  возьмите  #ACCEPT“Rise of the Silithid”#" },
-			[35] = { str = "35. Бегите на север в соседнюю локацию в Shimmering Flats в точку 78,74 и сдайте задание  #TURNIN“An Orphan Looking For A Home”#  возьмите  #ACCEPT“A Short Incubation”# поскольку у вас уже есть это задание сдайте его обратно и возьмите новое  #ACCEPT“The Newest Member of the Family”# теперь у вас есть час.", x = 78, y = 74, zone = "Thousand Needles" },
+			[35] = { str = "35. Бегите на север в соседнюю локацию в Shimmering Flats в точку 78,74 и сдайте задание  #TURNIN“An Orphan Looking For A Home”#  возьмите  #ACCEPT“A Short Incubation”# поскольку у вас уже есть в сумке 2 элексира сдайте задание и возьмите новое  #ACCEPT“The Newest Member of the Family”# теперь у вас есть час.", x = 78, y = 74, zone = "Thousand Needles" },
 			[35] = { str = "36. Отправляйтесь в Theramore достаньте все имеющиеся магические ткани посторайтесь максимально повысить уровень окаазния Первой помощи." },
 			[37] = { str = "37. Плывите на корабле Menethil и летите в IF" },
 			[38] = { str = "38. Сделайте IF своим домом и выучите новые навыки у тренера." },
