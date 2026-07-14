@@ -407,7 +407,7 @@ Table_003_Alliance_40to50 = {
 			[20] = { str = "20. Возьмите задание  #ACCEPT“Yuka Screwspigot”#" },
 			[21] = { str = "21. Сдайте задание  #TURNIN“Screecher Spirits”# в точке 66,22 следующее задание отправит нас в ZF ПРОПУСТИТЕ его.", x = 66, y = 22, zone = "Tanaris" },
 			[22] = { str = "22. Жмите Hearth в Gadgetzan" },
-			[23] = { str = "23. Подойдите ко входу и возьмите задание  #ACCEPT“The Thirsty Goblin”#  затем сдайте его и возьмите следующее  #ACCEPT“In Good Taste”#" },
+			[23] = { str = "23. Подойдите ко входу и сдайте задание  #ACCEPT“The Thirsty Goblin”#  затем возьмите следующее  #ACCEPT“In Good Taste”#" },
 			[24] = { str = "24. Пройдите за гостиницу к костру и сдайте  #TURNIN“The Dunemaul Compound”#" },
 			[25] = { str = "25. Идите в северному входу и сдайте задание  #TURNIN“Thistleshrub Valley”#" },
 			[26] = { str = "26. Идите на запад в Sprinkle и сдайте задание  #TURNIN“In Good Taste”#  возьмите следующее  #ACCEPT“Sprinkle's Secret Ingredient”#" },
