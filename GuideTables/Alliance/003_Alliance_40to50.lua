@@ -297,10 +297,9 @@ Table_003_Alliance_40to50 = {
 			[7] = { str = "7. Можно остановиться примерно на 75% опыта до 47 уровня, но все же лучше прокачиваться дальше" },
 			[8] = { str = "8. Когда закончите проходить данж сдайте все задания которые выполнили в Uldaman'e в обратном порядке порядке: Badlands, Loch Modan, IF (Стальгорн) какие задания из данжа вы не выполнили отмените" },
 			[9] = { str = "9. Сдайте задание #TURNIN“The Platinum Discs”# и возьмите #ACCEPT“Portents of Uldum”# в точке 69,18 IF (Стальгорн), затем сдайте задание #TURNIN“Portents of Uldum”# в точке 77,11" },
-			[10] = { str = "10. Возьмите заадние #ACCEPT“Seeing What Happens”# и #ACCEPT“Passing the Burden”# в точке 77,11" },
-			[11] = { str = "11. Сдайте задание #TURNIN“Passing the Burden”# в точке 31,4. Задание “Arcane Runes” пока пропустите" },
-			[12] = { str = "12. Летите SW и сдайте задание #TURNIN“In Search of The Temple”# в точке 64,20 и возьмите следующее #ACCEPT“To The Hinterlands”# изучите новые навыки и летите в Southshore", x = 64, y = 20, zone = "Stormwind" },
-			[13] = { str = "13. Бегите по тропе в точку 84,33 вы увидите 2х грифонов идите дальше в The Hinterlands", x = 84, y = 33, zone = "Tarren Mill" },
+			[10] = { str = "10. Возьмите заадние #ACCEPT“Seeing What Happens”# в точке 77,11" },
+			[11] = { str = "11. Летите SW и сдайте задание #TURNIN“In Search of The Temple”# в точке 64,20 и возьмите следующее #ACCEPT“To The Hinterlands”# изучите новые навыки и летите в Southshore", x = 64, y = 20, zone = "Stormwind" },
+			[12] = { str = "12. Бегите по тропе в точку 84,33 вы увидите 2х грифонов идите дальше в The Hinterlands", x = 84, y = 33, zone = "Tarren Mill" },
 		}
 	},
 
