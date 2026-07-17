@@ -513,7 +513,7 @@ Table_003_Alliance_40to50 = {
 			[16] = { str = "16. Летите в Tanaris" },
 			[17] = { str = "17. Идите к северо-западному входу сдайте задание #TURNIN“Sprinkle's Secret Ingredient”# и возьмите следующее #ACCEPT“Delivery For Marin”# (нужно подождать)" },
 			[18] = { str = "18. Вернитесь к южному входу и сдайте заадние #TURNIN“Delivery For Marin”#, возьмите следующее задание #ACCEPT“Noggenfogger Elixir”# (нужно подождать) затем сдайте его обратно. Вы получите 5 элексиров и в дальнейшем сможете покупать их у торговца" },
-			[19] = { str = "19. Бегите на север в соседнюю локацию Shimmering Flats в точке 77,77 сдайте задания #TURNIN“Zanzil's Mixture ang a Fool's Stout”#, возьмите следующее #ACCEPT“Get the Goblins Drunk”# и сдайте его в точке 79,76", x = 77, y = 77, zone = "Thousand Needles" },
+			[19] = { str = "19. Бегите на север в соседнюю локацию Shimmering Flats в точке 77,77 сдайте задания #TURNIN“Zanzil's Mixture and a Fool's Stout”#, возьмите следующее #ACCEPT“Get the Goblins Drunk”# и сдайте его в точке 79,76", x = 77, y = 77, zone = "Thousand Needles" },
 			[20] = { str = "20. Вернитесь в точку 77,77 и возьмите задание #ACCEPT“Report Back to Fizzlebub”#", x = 77, y = 77, zone = "Thousand Needles" },
 			[21] = { str = "21. Идите в Tanaris 52,45 сдайте задание #TURNIN“The Stone Circle”# следуюшие задания ПРОПУСТИТЕ если вы не планируете пройти Sunken Temple", x = 52, y = 45, zone = "Thousand Needles" },
 			[22] = { str = "22. Сейчас вам осталось добить около 30 000 опыта до 50 уровня идите в ZF, но лучше бы вы гриндили мобов в Blasted Lands" },
