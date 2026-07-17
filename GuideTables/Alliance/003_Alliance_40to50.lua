@@ -520,7 +520,7 @@ Table_003_Alliance_40to50 = {
 			[23] = { str = "23. Если вы проходите ZF вам нужно выполнить минимум 2-3 задания из следующих #DOQUEST“Troll Temper”#, #DOQUEST“Divino-matic Rod”#, #DOQUEST“Gahz'rilla”#, #DOQUEST“The Prophecy of Mosh'Aru”# я рекомендую выполнить #ACCEPT“Divino-matic Rod”# и #ACCEPT“Gahz'rilla”# вы получите кольцо и тринбку на увеличение скорости маунта" },
 			[24] = { str = "24. Если вы прошли ZF вам нужно добить 1-2 клетки до 50 уровня. Прокачка с 45 до 50 уровеня это головная боль дальше будет интересней" },
 			[25] = { str = "25. Жмите Hearth в BB и сдайте задание #TURNIN“Report Back to Fizzlebub”#" },
-			[26] = { str = "26. Летите в IF и выучите новые навыки и возьмите задание #ACCEPT“The Hunter's Charm”#" },
+			[26] = { str = "26. Летите в IF и выучите новые навыки и возьмите задание #ACCEPT“The Hunter's Charm”# если вы охотник" },
 			[27] = { str = "27. Убедитесь что у вас есть 15 шт. Silk Cloth если нет купите ткань на аукционе" },
 			[28] = { str = "28. Сделайте IF своим домом, возьмите задание #ACCEPT“Assisting Arch Druid Staghelm”#" },
 			[29] = { str = "29. Летите в Thelsamar" },
