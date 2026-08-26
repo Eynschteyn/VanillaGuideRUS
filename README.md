@@ -57,8 +57,8 @@ VanillaGuide
 
 * "Пошаговые" руководства по зонам на основе работы Джоаны, Брайана Коппса и RestedXP
 * Подсказки и советы по различным квестам
-* Интеграция: [MetaMapBWP](https://github.com/laytya/Metamap-vanilla)
-* Интеграция: [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
+* Интеграция (работает криво): [MetaMapBWP](https://github.com/laytya/Metamap-vanilla)
+* Интеграция (работает криво): [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
 
 Для работы аддона необходим шрифт с поддержкой кирилицы в противном случае кирилица не будет отображаться в аддоне.
 ============
