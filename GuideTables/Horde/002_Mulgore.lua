@@ -28,7 +28,7 @@ Table_002_Mulgore = {
 	    --itemCount = 16,
 	    items = {
 			[1] = { str = "1. 1-6 Mulgore" },
-			[2] = { str = "2. Для шаманов: тут вы сами за себя делайте классовые задания сами как считаете нужным начиная с 4 уровня" },
+			[2] = { str = "2. #HUTNERДля шаманов: тут вы сами за себя делайте классовые задания сами как считаете нужным начиная с 4 уровня#" },
 			[3] = { str = "3. Поговорите с Grull Hawkwing 44,77 и возьмите задание #ACCEPT\"The Hunt Begins\"# затем идите убивать Plainstriders и соберите 7 feathers и 7 meat. Вернись сдай задание и возьми #ACCEPT\"The Hunt Continues\"# и #ACCEPT\"Etched Note\"#.", x = 44, y = 77, zone = "Mulgore" },
 			[4] = { str = "4. Поговори с классовым тренером и сдай задание #TURNIN\"Etched Note\"# затем поговорите с Chief Hawkwind и возьмите задание #ACCEPT\"A Humble Task\"#." },
 			[5] = { str = "5. Идите в точку 50,81 и сдайте задание #TURNIN\"A Humble Task\"# у Greatmother Hawkwind, возьмите следующее задание и шелкните по мешку с водой у скважины, затем вернитесь и сдайте задание #TURNIN\"A Humble Task\"# и возьмите #ACCEPT\"Rites of the Earthmother\"#. ", x = 50, y = 81, zone = "Mulgore" },
