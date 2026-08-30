@@ -52,7 +52,7 @@ Table_003_Horde_12to20 = {
 			[23] = { str = "23. Сдайте задания #TURNIN\"The Disruption Ends\"# и #TURNIN\"Supplies for the Crossroads\"#" },
 			[24] = { str = "24. Сдайте задание #TURNIN\"Plainstrider Menace\"# (к этому моменту оно должно быть выполнено) возьмите задание #ACCEPT\"The Zhevra\"#. Так же возьмите задание #ACCEPT\"Consumed by Hatred\"# и #ACCEPT\"Lost in Battle\"#" },
 			[25] = { str = "25. На этом этапе у вас должны быть все сумки хотя бы на 6 слотов, если нет то купите их у торговца" },
-			[26] = { str = "26. Идите на запад от Crossroads, к парню в хижине по координатам 45,28", x = 45, y = 28, zone = "The Barrens" },
+			[26] = { str = "26. Идите на запад от Crossroads, к орку в бункере по координатам 45,28", x = 45, y = 28, zone = "The Barrens" },
 			[27] = { str = "27. Возьмите задания #ACCEPT\"Kolkar Leaders\"# и #ACCEPT\"Centaur Bracers\"#" },
 			[28] = { str = "28. Теперь иди и начинай выпонять задания:" },
 			[29] = { str = "29. #DOQUEST\"Kolkar Leaders\"#, #DOQUEST\"Centaur Bracers\"#, #DOQUEST\"Raptor Thieves\"#, #DOQUEST\"The Zhevra\"#, #DOQUEST\"Fungal Spores\"# и #DOQUEST\"The Forgotten Pools\"# (все это делается немного севернее от того места где вы находитесь)" },
