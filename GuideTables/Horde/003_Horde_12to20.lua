@@ -95,7 +95,7 @@ Table_003_Horde_12to20 = {
 		items = {
 			[1] = { str = "1. 16-20 Barrens Part 1" },
 			[2] = { str = "2. Гринди мобов по дороге обратно к парню в хижину в точке 45,28", x = 45, y = 28, zone = "The Barrens" },
-			[3] = { str = "3. Сдайте задание Turn in #TURNIN\"Kolkar Leaders\"# и возьмите #ACCEPT\"Verog the Dervish\"#. Так же сдайте задание #TURNIN\"Centaur Bracers\"# если оно выполнено если нет то сдадите позже" },
+			[3] = { str = "3. Сдайте задание #TURNIN\"Kolkar Leaders\"# и возьмите #ACCEPT\"Verog the Dervish\"#. Так же сдайте задание #TURNIN\"Centaur Bracers\"# если оно выполнено если нет то сдадите позже" },
 			[4] = { str = "4. Обязательно выполните задания #DOQUEST\"Raptor Thieves\"#, #DOQUEST\"The Zhevra\"#, #DOQUEST\"Fungal Spores\"# и #DOQUEST\"The Forgotten Pools\"# прежде чем вернетесь в Crossroads." },
 			[5] = { str = "5. Бегите в Crossroads в точке 52,30", x = 52, y = 30, zone = "The Barrens" },
 			[6] = { str = "6. Сдайте все задания и возьмите все новые задания" },
