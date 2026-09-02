@@ -28,7 +28,7 @@ Table_003_Horde_12to20 = {
 		--itemCount = 32,
 		items = {
 			[1] = { str = "1. 12-15 Barrens" },
-			[2] = { str = "#COORDS2. В этом блоке несколько заданий около 1-2 шт. в степях для Туаренов могут не отображаться ничего страшного.#" },
+			[2] = { str = "#COORDS2. Несколько заданий в степях (около 1-2 шт) для Туаренов могут быть недоступны ничего страшного ПОМНИ ОБ ЭТОМ#" },
 			[3] = { str = "3. Сдайте задание #TURNIN\"Conscript of the Horde\"# в точке 62,19 в Barrens, возьмите новое задание #ACCEPT\"Crossroads Conscription\"# ", x = 62, y = 19, zone = "The Barrens" },
 			[4] = { str = "4. Сдайте задание #TURNIN\"Ak'Zeloth\"# в точке 62,20 Я ПРОПУСКАЮ задание \"#NPCThe Demon Seed\"# ", x = 62, y = 20, zone = "The Barrens" },
 			[5] = { str = "5. Бегите в Crossroads в точку 52,30 #HUNTER (Если вы hunter выполните 5 пункт)#", x = 52, y = 30, zone = "The Barrens" },
