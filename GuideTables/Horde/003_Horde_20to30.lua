@@ -37,7 +37,7 @@ Table_003_Horde_20to30 = {
 			[10] = { str = "10. Бегите к Sun Rock Retreat в точку 46,59", x = 46, y = 59, zone = "Stonetalon Mountains" },
 			[11] = { str = "11. Сдайте задания #TURNIN\"Arachnophobia\"# и #TURNIN\"Kaya's Alive\"# если вы выполниил задание на сопровождение" },
 			[12] = { str = "12. Откройте полетчика" },
-			[13] = { str = "13. Поднимитесь по не большой трапинке #VIDEOpathway# и возьмите заадние #ACCEPT\"Boulderslide Ravine\"# и #ACCEPT\"Trouble in the Deeps\"# в точке 47,64", x = 47, y = 64, zone = "Stonetalon Mountains" },
+			[13] = { str = "13. Поднимитесь по не большой трапинке (с лева за скалой от таверны) и возьмите заадние #ACCEPT\"Boulderslide Ravine\"# и #ACCEPT\"Trouble in the Deeps\"# в точке 47,64", x = 47, y = 64, zone = "Stonetalon Mountains" },
 			[14] = { str = "14. Выполни задание #DOQUEST\"Boulderslide Ravine\"# в точке 61,92", x = 61, y = 92, zone = "Stonetalon Mountains" },
 			[15] = { str = "15. Сдайте задание #TURNIN\"Blood Feeders\"# в точке 71,95", x = 71, y = 95, zone = "Stonetalon Mountains" },
 			[16] = { str = "16. Сдайте задание #TURNIN\"Goblin Invaders\"# в точке 35,27 в Barrens и возьмите задание #ACCEPT\"Shredding Machines\"# (я ПРОПУСКАЮ заадние \"#NPCThe Elder Crone\"#", x = 35, y = 27, zone = "The Barrens" },
