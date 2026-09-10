@@ -79,7 +79,7 @@ Table_003_Horde_20to30 = {
 			[3] = { str = "3. Сдайте задание #TURNIN\"Jorn Skyseer\"# и возьмите #ACCEPT\"Ishamuhale\"# и #ACCEPT\"Melor Sends Word\"#" },
 			[4] = { str = "4. Сделайте Camp Taurajo своим домом" },
 			[5] = { str = "5. Я отдаю bloodshards гноллу что бы получить бонус к ловкости или духу" },
-			[6] = { str = "6. Бегите на юг и ищите #NPCOwatanka# в точке 45,62, с него падает 'Owatanka's Tailspike' оно начинает задание #ACCEPT\"Owatanka\"#", x = 45, y = 62, zone = "The Barrens" },
+			[6] = { str = "6. Бегите на юг и ищите #NPCOwatanka# в точке 45,62, с него падает 'Owatanka's Tailspike' оно начинает задание #ACCEPT\"Owatanka\"# (ранее в гайде уже упоминалось об этом квесте если вы не нашли этого моба там то ищите его в точке указанной в этом пункте)", x = 45, y = 62, zone = "The Barrens" },
 			[7] = { str = "7. Выполните задание #DOQUEST\"Egg Hunt\"# в точке 44,71", x = 44, y = 71, zone = "The Barrens" },
 			[8] = { str = "8. Выполните задание #DOQUEST\"Chen's Empty Keg\"# (если оно у вас есть)" },
 			[9] = { str = "9. Выполните заадния #DOQUEST\"Betrayal from Within\"# и #DOQUEST\"Weapons of Choice\"# в точке 43,79", x = 43, y = 79, zone = "The Barrens" },
