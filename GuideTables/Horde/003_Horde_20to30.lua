@@ -81,7 +81,7 @@ Table_003_Horde_20to30 = {
 			[5] = { str = "5. Я отдаю bloodshards гноллу что бы получить бонус к ловкости или духу" },
 			[6] = { str = "6. Бегите на юг и ищите #NPCOwatanka# в точке 45,62, с него падает 'Owatanka's Tailspike' оно начинает задание #ACCEPT\"Owatanka\"# (ранее в гайде уже упоминалось об этом квесте если вы не нашли этого моба там то ищите его в точке указанной в этом пункте)", x = 45, y = 62, zone = "The Barrens" },
 			[7] = { str = "7. Выполните задание #DOQUEST\"Egg Hunt\"# в точке 44,71", x = 44, y = 71, zone = "The Barrens" },
-			[8] = { str = "8. Выполните задание #DOQUEST\"Chen's Empty Keg\"# (если оно у вас есть) (найдите бочку в точке 45,62 и возьмите задание у предмета (боченка) в инвентаре)" },
+			[8] = { str = "8. Выполните задание #DOQUEST\"Chen's Empty Keg\"# часть 2 (если оно у вас есть и вы сдавали первую часть в Ратчате) (вообще 1 часть задания берется у бочки в точке 45,62" },
 			[9] = { str = "9. Выполните заадния #DOQUEST\"Betrayal from Within\"# и #DOQUEST\"Weapons of Choice\"# в точке 43,79", x = 43, y = 79, zone = "The Barrens" },
 			[10] = { str = "10. Возьмите задание #ACCEPT\"Gann's Reclamation\"# у #NPCGann Stonespire#. Выполните его в точке 46,86. затем сдайте его и возьмите #ACCEPT\"Revenge of Gann\"#", x = 46, y = 86, zone = "The Barrens" },
 			[11] = { str = "11. Жмите Hearth назад в Camp Taurajo, сдайте заадния #TURNIN\"Weapons of Choice\"# и #TURNIN\"Betrayal from Within\"# затем возьмите #ACCEPT\"Betrayal from Within\"# часть 2" },
