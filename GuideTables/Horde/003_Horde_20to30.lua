@@ -89,7 +89,7 @@ Table_003_Horde_20to30 = {
 			[13] = { str = "13. Сдайте задание #TURNIN\"Betrayal from Within\"# часть 2 и задание #TURNIN\"Egg Hunt\"#" },
 			[14] = { str = "14. Выполните задание #DOQUEST\"Ishamuhale\"# в точке 60,32", x = 60, y = 32, zone = "The Barrens" },
 			[15] = { str = "15. Сдайте задание #TURNIN\"Further Instructions\"# (в точке 63,37 Ratchet), возьмите задание #ACCEPT\"Further Instructions\"# часть 2", x = 63, y = 37, zone = "The Barrens" },
-			[16] = { str = "16. Сдайте задания #TURNIN\"Deepmoss Spider Eggs\"# и #TURNIN\"Chen's Empty Keg\"#" },
+			[16] = { str = "16. Сдайте задания #TURNIN\"Deepmoss Spider Eggs\"# и #TURNIN\"Chen's Empty Keg\"# и возьмите следующую часть задания #ACCEPT\"Chen's Empty Keg\"#" },
 			[17] = { str = "17. Летите Fly в Stonetalon Mountains" },
 		}
 	},
