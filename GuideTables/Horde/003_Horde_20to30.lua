@@ -112,7 +112,7 @@ Table_003_Horde_20to30 = {
 			[8] = { str = "8. #DOQUEST\"Jin'Zil's Forest Magic\"# (мобы находятся по дороге в точке 45,27 и в области 34,14)", x = 45, y = 27, zone = "Stonetalon Mountains" },
 			[9] = { str = "9. Вернитесь в Sun Rock Retreat и сдайте задание #TURNIN\"Cycle of Rebirth\"# берите следующее задание #ACCEPT\"New Life\"#" },
 			[10] = { str = "10. Сдайте задание #TURNIN\"Cenarius' Legacy\"# и возьмите #ACCEPT\"Ordanus\"#" },
-			[11] = { str = "#HUNTER11. ПРИМЕЧАНИЕ: Я пропускаю классового тренера на 24 уровне (т. к. там нет ничего полезного на этом уровне)#" },
+			[11] = { str = "#HUNTER11. ПРИМЕЧАНИЕ: Я пропускаю классового тренера охотника на 24 уровне (т. к. там нет ничего полезного)#" },
 			[12] = { str = "12. Сдайте задание #TURNIN\"Further Instructions\"# часть 2 в точке 58,62 и возьмите #ACCEPT\"Gerenzo Wrenchwhistle\"#", x = 58, y = 62, zone = "Stonetalon Mountains" },
 			[13] = { str = "13. Выполните задания #DOQUEST\"Gerenzo Wrenchwhistle\"# в точке 64,41 и задание #DOQUEST\"Shredding Machines\"# (убейте #NPCXT:4# и #NPCXT:9#)", x = 64, y = 41, zone = "Stonetalon Mountains" },
 			[14] = { str = "14. Сдайте задание #TURNIN\"Gerenzo Wrenchwhistle\"# в точке 58,62. Если вы не выполнили задание \"Arachnophobia\" то сделайте это сейчас", x = 58, y = 62, zone = "Stonetalon Mountains" },
