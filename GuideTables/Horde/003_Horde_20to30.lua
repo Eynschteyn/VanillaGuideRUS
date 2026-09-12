@@ -85,7 +85,7 @@ Table_003_Horde_20to30 = {
 			[9] = { str = "9. Выполните заадния #DOQUEST\"Betrayal from Within\"# и #DOQUEST\"Weapons of Choice\"# в точке 43,79", x = 43, y = 79, zone = "The Barrens" },
 			[10] = { str = "10. Возьмите задание #ACCEPT\"Gann's Reclamation\"# у #NPCGann Stonespire#. Выполните его в точке 46,86. затем сдайте его и возьмите #ACCEPT\"Revenge of Gann\"#", x = 46, y = 86, zone = "The Barrens" },
 			[11] = { str = "11. Жмите Hearth назад в Camp Taurajo, сдайте заадния #TURNIN\"Weapons of Choice\"# и #TURNIN\"Betrayal from Within\"# затем возьмите #ACCEPT\"Betrayal from Within\"# часть 2" },
-			[12] = { str = "12. Летите в XR." },
+			[12] = { str = "12. Летите в Crossroads." },
 			[13] = { str = "13. Сдайте задание #TURNIN\"Betrayal from Within\"# часть 2 и задание #TURNIN\"Egg Hunt\"#" },
 			[14] = { str = "14. Выполните задание #DOQUEST\"Ishamuhale\"# в точке 60,32", x = 60, y = 32, zone = "The Barrens" },
 			[15] = { str = "15. Сдайте задание #TURNIN\"Further Instructions\"# (в точке 63,37 Ratchet), возьмите задание #ACCEPT\"Further Instructions\"# часть 2", x = 63, y = 37, zone = "The Barrens" },
