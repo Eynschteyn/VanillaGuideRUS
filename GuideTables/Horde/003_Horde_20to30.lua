@@ -115,7 +115,7 @@ Table_003_Horde_20to30 = {
 			[11] = { str = "#HUNTER11. ПРИМЕЧАНИЕ: Я пропускаю классового тренера охотника на 24 уровне (т. к. там нет ничего полезного)#" },
 			[12] = { str = "12. Сдайте задание #TURNIN\"Further Instructions\"# часть 2 в точке 58,62 и возьмите #ACCEPT\"Gerenzo Wrenchwhistle\"#", x = 58, y = 62, zone = "Stonetalon Mountains" },
 			[13] = { str = "13. Выполните задания #DOQUEST\"Gerenzo Wrenchwhistle\"# в точке 64,41 и задание #DOQUEST\"Shredding Machines\"# (убейте #NPCXT:4# и #NPCXT:9#)", x = 64, y = 41, zone = "Stonetalon Mountains" },
-			[14] = { str = "14. Сдайте задание #TURNIN\"Gerenzo Wrenchwhistle\"# в точке 58,62. Если вы не выполнили задание \"Arachnophobia\" то сделайте это сейчас", x = 58, y = 62, zone = "Stonetalon Mountains" },
+			[14] = { str = "14. Сдайте задание #TURNIN\"Gerenzo Wrenchwhistle\"# в точке 58,62. Если вы не выполнили задание #DOQUEST\"Arachnophobia\"# то сделайте это сейчас", x = 58, y = 62, zone = "Stonetalon Mountains" },
 			[15] = { str = "15. Бегите на юг и сдайте задание #TURNIN\"Jin'Zil's Forest Magic\"# в точке 74,97", x = 74, y = 97, zone = "Stonetalon Mountains" },
 			[16] = { str = "16. Сдайте задание #TURNIN\"Shredding Machines\"# (в Barrens по координатам 35,27)", x = 35, y = 27, zone = "The Barrens" },
 			[17] = { str = "17. Жмите Hearth назад в Sun Rock Retreat и сдайте задание #TURNIN\"Arachnophobia\"# если вы его сделали только что" },
